@@ -1,11 +1,9 @@
 # episode
 Episodes for the open-source face-to-face talk!
 
-| 平台 | 描述 |
-|---|---|
-| [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/) | 音频 |
-| [YouTube](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg) | 视频 |
-| [哔哩哔哩](https://space.bilibili.com/433584098/channel/detail?cid=200059) | 视频 |
+| 序号 | 嘉宾 | 主持人 | 链接 |
+|---|---|---|---|
+| S1E1 | [majinghe](https://github.com/majinghe), [Rick](https://github.com/linuxsuren) | [Wey Gu](https://github.com/wey-gu) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/456334989)，[YouTube](https://www.youtube.com/watch?v=FEJdj5wbYsk)，[哔哩哔哩](https://www.bilibili.com/video/BV1SL411W7xv) |
 
 # 开源面对面
 
