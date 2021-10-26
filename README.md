@@ -40,3 +40,6 @@ Continuous Delivery Foundation（持续交付基金会 CDF）中文本地化 SIG
 * 非技术岗的开源人
 
 如果你与我们的想法不谋而合，欢迎加入！如果你愿意讲述你的开源故事，欢迎自荐或者推荐周围的朋友。
+
+## 更多开源相关的音视频节目
+* [迪魔王Devmore](https://www.ximalaya.com/zhubo/343307074/)
