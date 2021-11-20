@@ -3,9 +3,10 @@ Episodes for the open-source face-to-face talk!
 
 | 序号 | 嘉宾 | 主持人 | 链接 |
 |---|---|---|---|
-| S01E00 | [majinghe](https://github.com/majinghe), [Rick](https://github.com/linuxsuren) | [Wey Gu](https://github.com/wey-gu) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/456334989)，[YouTube](https://www.youtube.com/watch?v=FEJdj5wbYsk)，[哔哩哔哩](https://www.bilibili.com/video/BV1SL411W7xv) |
-| S01E01 | [FeynmanZhou](https://github.com/FeynmanZhou) | [majinghe](https://github.com/majinghe), [Wey Gu](https://github.com/wey-gu), [Rick](https://github.com/linuxsuren) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/465458545), [YouTube](https://www.youtube.com/watch?v=mGrVVDeFMMo)，[哔哩哔哩](https://www.bilibili.com/video/BV1Tb4y1a7cP) |
-| S01E02 | [李自](https://github.com/robekeane) | [Rick](https://github.com/linuxsuren) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/466962028), [YouTube](https://www.youtube.com/watch?v=TkNEDN5mse8)，[哔哩哔哩](https://www.bilibili.com/video/bv1SQ4y1U7mu) |
+| S01E00 | [majinghe](https://github.com/majinghe)，[Rick](https://github.com/linuxsuren) | [Wey Gu](https://github.com/wey-gu) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/456334989)，[YouTube](https://www.youtube.com/watch?v=FEJdj5wbYsk)，[哔哩哔哩](https://www.bilibili.com/video/BV1SL411W7xv) |
+| S01E01 | [FeynmanZhou](https://github.com/FeynmanZhou) | [majinghe](https://github.com/majinghe)，[Wey Gu](https://github.com/wey-gu)，[Rick](https://github.com/linuxsuren) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/465458545)，[YouTube](https://www.youtube.com/watch?v=mGrVVDeFMMo)，[哔哩哔哩](https://www.bilibili.com/video/BV1Tb4y1a7cP) |
+| S01E02 | [李自](https://github.com/robekeane) | [Rick](https://github.com/linuxsuren) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/466962028)，[YouTube](https://www.youtube.com/watch?v=TkNEDN5mse8)，[哔哩哔哩](https://www.bilibili.com/video/bv1SQ4y1U7mu) |
+| S01E03 | [YiHong](https://github.com/yihong0618) | [Wey Gu](https://github.com/wey-gu) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/474215643)，[YouTube](https://www.youtube.com/watch?v=yBmS03iiVco)，[哔哩哔哩](https://www.bilibili.com/video/bv1SQ4y1U7mu) |
 
 
 # 开源面对面
