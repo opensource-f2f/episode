@@ -1,6 +1,8 @@
 # episode
 Episodes for the open-source face-to-face talk!
 
+RSS: http://www.ximalaya.com/album/53320813.xml
+
 | 序号 | 嘉宾 | 主持人 | 链接 |
 |---|---|---|---|
 | S01E00 | [majinghe](https://github.com/majinghe)，[Rick](https://github.com/linuxsuren) | [Wey Gu](https://github.com/wey-gu) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/456334989)，[YouTube](https://www.youtube.com/watch?v=FEJdj5wbYsk)，[哔哩哔哩](https://www.bilibili.com/video/BV1SL411W7xv) |
