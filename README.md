@@ -48,3 +48,5 @@ Continuous Delivery Foundation（持续交付基金会 CDF）中文本地化 SIG
 
 ## 更多开源相关的音视频节目
 * [迪魔王Devmore](https://www.ximalaya.com/zhubo/343307074/)
+* [ByteTalk](https://bytetalk.fm/)
+* [ALC Beijing Podcast](https://www.ximalaya.com/keji/37853515/)
