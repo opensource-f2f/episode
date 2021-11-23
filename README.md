@@ -51,7 +51,7 @@ Continuous Delivery Foundation（持续交付基金会 CDF）中文本地化 SIG
 除了喜马拉雅、小宇宙等商业的客户端可以收听播客外，也可以尝试使用如下开源的收听工具：
 
 * [vscode-gcores 是一个 VS-Code 插件](https://github.com/yihong0618/vscode-gcores)
-* [gaycore 是 Python 编写的客户](https://github.com/yihong0618/gaycore)
+* [gaycore 是 Python 编写的客户端](https://github.com/yihong0618/gaycore)
 * [goplay 是 Golang 编写的客户端](https://github.com/LinuxSuRen/goplay)
 
 ## 更多开源相关的音视频节目
