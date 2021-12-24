@@ -9,6 +9,7 @@ RSS: http://www.ximalaya.com/album/53320813.xml
 | S01E01 | [FeynmanZhou](https://github.com/FeynmanZhou) | [majinghe](https://github.com/majinghe)，[Wey Gu](https://github.com/wey-gu)，[Rick](https://github.com/linuxsuren) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/465458545)，[YouTube](https://www.youtube.com/watch?v=mGrVVDeFMMo)，[哔哩哔哩](https://www.bilibili.com/video/BV1Tb4y1a7cP) |
 | S01E02 | [李自](https://github.com/robekeane) | [Rick](https://github.com/linuxsuren) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/466962028)，[YouTube](https://www.youtube.com/watch?v=TkNEDN5mse8)，[哔哩哔哩](https://www.bilibili.com/video/bv1SQ4y1U7mu) |
 | S01E03 | [YiHong](https://github.com/yihong0618) | [Wey Gu](https://github.com/wey-gu) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/474215643)，[YouTube](https://www.youtube.com/watch?v=yBmS03iiVco)，[哔哩哔哩](https://www.bilibili.com/video/BV1jY41147bX) |
+| S01E04 | [Miya](https://github.com/miyaliu666) | [Rick](https://github.com/linuxsuren), [majinghe](https://github.com/majinghe) | [喜马拉雅](https://www.ximalaya.com/sound/484328758)，[YouTube](https://www.youtube.com/watch?v=TH1FsCnbKh0)，[哔哩哔哩](https://www.bilibili.com/video/BV17a41167bw) |
 
 
 # 开源面对面
