@@ -1,4 +1,7 @@
 # episode
+
+![Twitter Follow](https://img.shields.io/twitter/follow/osf2f?style=social)
+
 Episodes for the open-source face-to-face talk!
 
 RSS: http://www.ximalaya.com/album/53320813.xml
@@ -59,3 +62,7 @@ Continuous Delivery Foundation（持续交付基金会 CDF）中文本地化 SIG
 * [迪魔王Devmore](https://www.ximalaya.com/zhubo/343307074/)
 * [ByteTalk](https://bytetalk.fm/)
 * [ALC Beijing Podcast](https://www.ximalaya.com/keji/37853515/)
+
+## 支持我们
+
+- [爱发电](https://afdian.net/@opensource-f2f)
