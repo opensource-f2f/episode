@@ -6,6 +6,9 @@ Episodes for the open-source face-to-face talk!
 
 RSS: http://www.ximalaya.com/album/53320813.xml
 
+
+## 个人成长系列
+
 | 序号 | 嘉宾 | 主持人 | 链接 |
 |---|---|---|---|
 | S01E00 | [majinghe](https://github.com/majinghe)，[Rick](https://github.com/linuxsuren) | [Wey Gu](https://github.com/wey-gu) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/456334989)，[YouTube](https://www.youtube.com/watch?v=FEJdj5wbYsk)，[哔哩哔哩](https://www.bilibili.com/video/BV1SL411W7xv) |
@@ -14,6 +17,18 @@ RSS: http://www.ximalaya.com/album/53320813.xml
 | S01E03 | [YiHong](https://github.com/yihong0618) | [Wey Gu](https://github.com/wey-gu) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/474215643)，[YouTube](https://www.youtube.com/watch?v=yBmS03iiVco)，[哔哩哔哩](https://www.bilibili.com/video/BV1jY41147bX) |
 | S01E04 | [Miya](https://github.com/miyaliu666) | [Rick](https://github.com/linuxsuren), [majinghe](https://github.com/majinghe) | [喜马拉雅](https://www.ximalaya.com/sound/484328758)，[YouTube](https://www.youtube.com/watch?v=TH1FsCnbKh0)，[哔哩哔哩](https://www.bilibili.com/video/BV17a41167bw) |
 
+
+## 开源岗位系列
+
+| 序号 | 标题 | 嘉宾 | 主持人 |
+|---|---|---|---|
+| S02E01 | [从商业到开源社区，聊聊 JuiceFS 的开发者招聘](https://www.ximalaya.com/sound/482662081) | [Rui Su](https://github.com/Suave) | [Rick](https://github.com/linuxsuren) |
+
+## 番外篇
+
+| 序号 | 标题 | 嘉宾 | 主持人 |
+|---|---|---|---|
+| 00 | [2022 元旦：四位主播居然都是“社恐”](https://www.ximalaya.com/sound/487941499) | | [majinghe](https://github.com/majinghe)，[Wey Gu](https://github.com/wey-gu)，[Satohchen](https://github.com/Satohchen)，[Rick](https://github.com/linuxsuren) |
 
 # 开源面对面
 
