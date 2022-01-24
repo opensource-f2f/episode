@@ -15,7 +15,7 @@ RSS: http://www.ximalaya.com/album/53320813.xml
 | S01E01 | [开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞)](https://www.ximalaya.com/sound/465458545) | [FeynmanZhou](https://github.com/FeynmanZhou) | [majinghe](https://github.com/majinghe)，[Wey Gu](https://github.com/wey-gu)，[Rick](https://github.com/linuxsuren) |
 | S01E02 | [李自：参与开源社区的原动力探索——自我价值的实现和社会认可](https://www.ximalaya.com/sound/466962028) | [李自](https://github.com/robekeane) | [Rick](https://github.com/linuxsuren) |
 | S01E03 | [专访 YiHong，自学成为流行开源项目作者的点滴](https://www.ximalaya.com/sound/474215643) | [YiHong](https://github.com/yihong0618) | [Wey Gu](https://github.com/wey-gu) |
-| S01E04 | [Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使](https://www.ximalaya.com/sound/484328758) | [Miya](https://github.com/miyaliu666) | [Rick](https://github.com/linuxsuren), [majinghe](https://github.com/majinghe) |
+| S01E04 | [Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使](https://www.ximalaya.com/sound/484328758) | [Miya](https://github.com/miyaliu666) | [Rick](https://github.com/linuxsuren)，[majinghe](https://github.com/majinghe) |
 | S01E05 | [专访 琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区](https://www.ximalaya.com/sound/493354361) | [琚[jū]致远](https://github.com/juzhiyuan) | [Wey Gu](https://github.com/wey-gu)，[majinghe](https://github.com/majinghe)，[Rick](https://github.com/linuxsuren) |
 
 
