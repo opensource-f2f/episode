@@ -1,6 +1,6 @@
 # episode
 
-![Twitter Follow](https://img.shields.io/twitter/follow/osf2f?style=social)
+[![Twitter Follow](https://img.shields.io/twitter/follow/osf2f?style=social)](https://twitter.com/osf2f)
 
 Episodes for the open-source face-to-face talk!
 
@@ -9,13 +9,14 @@ RSS: http://www.ximalaya.com/album/53320813.xml
 
 ## 个人成长系列
 
-| 序号 | 嘉宾 | 主持人 | 链接 |
+| 序号 | 标题 | 嘉宾 | 主持人 |
 |---|---|---|---|
-| S01E00 | [majinghe](https://github.com/majinghe)，[Rick](https://github.com/linuxsuren) | [Wey Gu](https://github.com/wey-gu) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/456334989)，[YouTube](https://www.youtube.com/watch?v=FEJdj5wbYsk)，[哔哩哔哩](https://www.bilibili.com/video/BV1SL411W7xv) |
-| S01E01 | [FeynmanZhou](https://github.com/FeynmanZhou) | [majinghe](https://github.com/majinghe)，[Wey Gu](https://github.com/wey-gu)，[Rick](https://github.com/linuxsuren) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/465458545)，[YouTube](https://www.youtube.com/watch?v=mGrVVDeFMMo)，[哔哩哔哩](https://www.bilibili.com/video/BV1Tb4y1a7cP) |
-| S01E02 | [李自](https://github.com/robekeane) | [Rick](https://github.com/linuxsuren) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/466962028)，[YouTube](https://www.youtube.com/watch?v=TkNEDN5mse8)，[哔哩哔哩](https://www.bilibili.com/video/bv1SQ4y1U7mu) |
-| S01E03 | [YiHong](https://github.com/yihong0618) | [Wey Gu](https://github.com/wey-gu) | [喜马拉雅](https://www.ximalaya.com/gerenchengzhang/53320813/474215643)，[YouTube](https://www.youtube.com/watch?v=yBmS03iiVco)，[哔哩哔哩](https://www.bilibili.com/video/BV1jY41147bX) |
-| S01E04 | [Miya](https://github.com/miyaliu666) | [Rick](https://github.com/linuxsuren), [majinghe](https://github.com/majinghe) | [喜马拉雅](https://www.ximalaya.com/sound/484328758)，[YouTube](https://www.youtube.com/watch?v=TH1FsCnbKh0)，[哔哩哔哩](https://www.bilibili.com/video/BV17a41167bw) |
+| S01E00 | [开源面对面节目自述](https://www.ximalaya.com/sound/456334989) | [majinghe](https://github.com/majinghe)，[Rick](https://github.com/linuxsuren) | [Wey Gu](https://github.com/wey-gu) |
+| S01E01 | [开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞)](https://www.ximalaya.com/sound/465458545) | [FeynmanZhou](https://github.com/FeynmanZhou) | [majinghe](https://github.com/majinghe)，[Wey Gu](https://github.com/wey-gu)，[Rick](https://github.com/linuxsuren) |
+| S01E02 | [李自：参与开源社区的原动力探索——自我价值的实现和社会认可](https://www.ximalaya.com/sound/466962028) | [李自](https://github.com/robekeane) | [Rick](https://github.com/linuxsuren) |
+| S01E03 | [专访 YiHong，自学成为流行开源项目作者的点滴](https://www.ximalaya.com/sound/474215643) | [YiHong](https://github.com/yihong0618) | [Wey Gu](https://github.com/wey-gu) |
+| S01E04 | [Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使](https://www.ximalaya.com/sound/484328758) | [Miya](https://github.com/miyaliu666) | [Rick](https://github.com/linuxsuren), [majinghe](https://github.com/majinghe) |
+| S01E05 | [专访 琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区](https://www.ximalaya.com/sound/493354361) | [琚[jū]致远](https://github.com/juzhiyuan) | [Wey Gu](https://github.com/wey-gu)，[majinghe](https://github.com/majinghe)，[Rick](https://github.com/linuxsuren) |
 
 
 ## 开源岗位系列
@@ -64,6 +65,13 @@ Continuous Delivery Foundation（持续交付基金会 CDF）中文本地化 SIG
 * 非技术岗的开源人
 
 如果你与我们的想法不谋而合，欢迎加入！如果你愿意讲述你的开源故事，欢迎自荐或者推荐周围的朋友。
+
+## 可访问的平台
+
+* [喜马拉雅](https://www.ximalaya.com/album/53320813)
+* [哔哩哔哩](https://space.bilibili.com/433584098/channel/seriesdetail?sid=809206)
+* [YouTube](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg)
+* [小宇宙](https://www.xiaoyuzhoufm.com/podcast/617ab62d9a75e8810fc37b99)
 
 ## 收听工具
 
