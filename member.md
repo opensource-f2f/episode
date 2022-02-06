@@ -10,6 +10,7 @@
 | [Rick](https://github.com/linuxsuren)     | 开源爱好者、业余开源布道师          |
 | [Wey Gu](https://github.com/wey-gu)       | 开源相信者、程序员、图技术 advocate |
 | [Satohchen](https://github.com/Satohchen) | 无法成为程序员的开源爱好者          |
+[琚致远](https://github.com/juzhiyuan) | 热衷于开源社区、一起帮助 TA 人成长 |
 
 ## 如何加入
 
