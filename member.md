@@ -4,8 +4,8 @@
 > 
 > 所有成员皆是以个人身份加入，不代表任何组织、企业。
 
-| 姓名                                        | 简介                     |
-|-------------------------------------------|------------------------|
+| 姓名  | 简介 |
+|:---:|---|
 | [majinghe](https://github.com/majinghe)   | 开源爱好者、DevOps 技术布道师     |
 | [Rick](https://github.com/linuxsuren)     | 开源爱好者、业余开源布道师          |
 | [Wey Gu](https://github.com/wey-gu)       | 开源相信者、程序员、图技术 advocate |
