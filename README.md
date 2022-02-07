@@ -28,7 +28,7 @@ RSS: http://www.ximalaya.com/album/53320813.xml
 ## 番外篇
 
 | 序号 | 标题 | 嘉宾 | 主持人                                                                                                                                                               |
-|---|---|---|-------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+|:---:|---|---|---|
 | 00 | [2022 元旦：四位主播居然都是“社恐”](https://www.ximalaya.com/sound/487941499) | | [majinghe](https://github.com/majinghe) 、[Wey Gu](https://github.com/wey-gu) 、[Satohchen](https://github.com/Satohchen) ， [Rick](https://github.com/linuxsuren) |
 
 ## 背景
