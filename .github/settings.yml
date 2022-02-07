@@ -39,6 +39,12 @@ labels:
     color: 006B75
   - name: 嘉宾推荐
     color: 1d76db
+  - name: 个人成长
+    color: c2e0c6
+  - name: 开源岗位
+    color: 192E49
+  - name: 番外
+    color: 938FAE
 branches:
   - name: master
     protection:
