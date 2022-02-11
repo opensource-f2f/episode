@@ -39,7 +39,8 @@
   * 提供用于交流的话题、问题等（可以是 [HackMD](https://hackmd.io/) 或其他文档协作平台）
 * 预约嘉宾和主持人的时间
   * 通常会约两次，分别为：前期沟通（pre-talk）、正式录制。大概每次需要 1 小时
-  * 约定时间后，添加到 [Google 日历](https://calendar.google.com/calendar/u/0?cid=NnYxNzcxc2w4Y2owZG9sMWxuYjRwbGJyMm9AZ3JvdXAuY2FsZW5kYXIuZ29vZ2xlLmNvbQ) 中
+  * 约定时间后，添加到 [Google 日历](https://calendar.google.com/calendar/u/0/embed?src=6v1771sl8cj0dol1lnb4plbr2o@group.calendar.google.com&ctz=Asia/Shanghai) 中
+  * 如果希望关注录制过程的话，可以订阅 [Google Groups](https://groups.google.com/g/osf2f)
 * 音频剪辑
   * 不要求有专业的剪辑技能，能满足一般的需求即可（具体请收听以往的节目剪辑效果）
 * show notes 整理
