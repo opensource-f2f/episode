@@ -1,11 +1,10 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/osf2f?style=social)](https://twitter.com/osf2f)
+[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](http://www.ximalaya.com/album/53320813.xml)
 
 # 开源面对面
 
 《开源面对面》是个系列访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员感受到参与开源是一种积极的趋势与良好的
 职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。
-
-RSS: http://www.ximalaya.com/album/53320813.xml
 
 ## 个人成长系列
 
