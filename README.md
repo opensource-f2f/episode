@@ -82,6 +82,7 @@ Continuous Delivery Foundation（持续交付基金会 CDF）中文本地化 SIG
 * [迪魔王Devmore](https://www.ximalaya.com/zhubo/343307074/)
 * [ByteTalk](https://bytetalk.fm/)
 * [ALC Beijing Podcast](https://www.ximalaya.com/keji/37853515/)
+* [OpenTEKr 大话开源](https://www.ximalaya.com/album/55050616)
 
 ## 支持我们
 
