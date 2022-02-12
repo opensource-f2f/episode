@@ -6,6 +6,7 @@
 
 * star 数 > 100
 * active contributor 数 > 5
+* 项目创建时间超过一年
 * 项目有明确的贡献指南
 * 最近一个季度内有 commit 更新
 
