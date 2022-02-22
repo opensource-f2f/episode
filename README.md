@@ -1,5 +1,5 @@
 [![Twitter Follow](https://img.shields.io/twitter/follow/osf2f?style=social)](https://twitter.com/osf2f)
-[![Rss](https://img.shields.io/badge/rss-F88900?style=for-the-badge&logo=rss&logoColor=white)](http://www.ximalaya.com/album/53320813.xml)
+[![Rss](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](http://www.ximalaya.com/album/53320813.xml)
 
 # 开源面对面
 
