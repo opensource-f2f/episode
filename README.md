@@ -17,6 +17,7 @@
 | S01E03 | [专访 YiHong，自学成为流行开源项目作者的点滴](https://www.ximalaya.com/sound/474215643) | [YiHong](https://github.com/yihong0618) | [Wey Gu](https://github.com/wey-gu) |
 | S01E04 | [Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使](https://www.ximalaya.com/sound/484328758) | [Miya](https://github.com/miyaliu666) | [Rick](https://github.com/linuxsuren)、[majinghe](https://github.com/majinghe) |
 | S01E05 | [专访 琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区](https://www.ximalaya.com/sound/493354361) | [琚[jū]致远](https://github.com/juzhiyuan) | [Wey Gu](https://github.com/wey-gu)、[majinghe](https://github.com/majinghe)、[Rick](https://github.com/linuxsuren) |
+| S02E02 | [走进全员 Remote 公司 StreamNative，共建开源乐园](https://www.ximalaya.com/sound/506240866) | [王殿进](https://github.com/tuhaihe)、[黄小冰](https://github.com/huangxiaobing1987)| [Rick](https://github.com/linuxsuren) |
 
 
 ## 开源岗位系列
