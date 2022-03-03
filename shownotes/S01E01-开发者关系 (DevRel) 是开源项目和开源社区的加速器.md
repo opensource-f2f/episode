@@ -1,6 +1,5 @@
 # S01E01 开发者关系 (DevRel) 是开源项目和开源社区的加速器  
 
-
 ## 嘉宾  
 [Feynman Zhou](https://github.com/FeynmanZhou) (周鹏飞)  
 ## 主持人  
@@ -23,8 +22,8 @@
 48:26 对参与开源的建议  
 
 
-# Staff  
-剪辑：  
+# Staff
+剪辑：[Wey Gu](https://github.com/wey-gu)  
 文字编辑：[stevending1st](https://github.com/stevending1st)  
 
 
@@ -53,4 +52,3 @@
 
 # 关于节目  
 《开源面对面》是一个系列的访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员看到参与开源是一种积极的趋势与良好的职业发展方向，认识到任何人都可以参与开源，并在开源的世界里体现自己的价值。  
-
