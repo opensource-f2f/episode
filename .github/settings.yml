@@ -45,6 +45,8 @@ labels:
     color: 192E49
   - name: 番外
     color: 938FAE
+  - name: good first issue
+    color: 63e6be
 branches:
   - name: master
     protection:
