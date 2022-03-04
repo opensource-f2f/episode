@@ -43,11 +43,30 @@
   * 如果希望关注录制过程的话，可以订阅 [Google Groups](https://groups.google.com/g/osf2f)
 * 音频剪辑
   * 不要求有专业的剪辑技能，能满足一般的需求即可（具体请收听以往的节目剪辑效果）
-* show notes 整理
+* [show notes](shownotes) 整理
 * 音频封面制作
 * 发布（喜马拉雅、哔哩哔哩、YouTube、微信公众号）
 
 > 制作团队成员拥有上述涉及到的平台的全部管理权限。
+
+## 剪辑说明
+
+为了使得节目尽量保持风格一致，而且具有一定的多样性，以下将作为相对宽松的剪辑要求：
+
+* 剪辑工具、背景音乐必须使用开源或者正版授权的
+* 尽量保持声音的原汁原味
+* 刺耳的、非预先设计好的噪音可以用降噪工具处理
+* 多余、重复的话可以剪掉，但涉及到大量修改的情况，需要征得节目录制人员的同意
+* 根据情况，可以考虑适当添加背景音乐，避免背景音乐影响谈话内容
+
+以下是参考工具、网站：
+
+| 名称 | 说明 |
+|---|---|
+| [Pixabay](https://pixabay.com/zh/music/) | 免费版权的背景音乐 |
+| [Audacity](https://github.com/audacity/audacity) | 开源音频剪辑工具 |
+| [OpenShot](https://github.com/OpenShot/openshot-qt) | 开源视频剪辑工具 |
+| [OBS](https://github.com/obsproject/obs-studio) | 开源录屏、推流工具（有强大的降噪功能） |
 
 ## 任期
 
