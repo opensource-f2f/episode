@@ -37,7 +37,7 @@
 **[HashiCorp](https://www.hashicorp.com/)**：Mitchell Hashimoto 和 Armon Dadgar 创立，旨在重新构建云世界的基础设施管理。  
 **[Terraform](https://www.terraform.io/)**：是一种声明式编码工具，可以让开发人员用 HCL（HashiCorp 配置语言）高级配置语言来描述用于运行应用程序的“最终状态”云或本地基础架构。  
 **Developer Relations**：即 DevRel，通过双向沟通开发者和公司的平台产品、工程、设计，来创造一个充满活力的第三方开发者生态系统。  
-**[Linux 基金会](https://www.linuxfoundation.org/)**：Linux Foundation，一个非盈利性的联盟，其目的在于协调和推动Linux系统的发展，以及宣传、保护和规范 Linux。  
+**[Linux 基金会](https://www.linuxfoundation.org/)**：Linux Foundation，一个非盈利性的联盟，其目的在于协调和推动 Linux 系统的发展，以及宣传、保护和规范 Linux。  
 **[Kubernetes](https://kubernetes.io/zh/)**：简称 k8s，是一个开源的，用于管理云平台中多个主机上的容器化的应用，Kubernetes 的目标是让部署容器化的应用简单并且高效（powerful），Kubernetes 提供了应用部署，规划，更新，维护的一种机制。  
 **SIG**：Special Interest Group 的缩写，中文翻译为特别兴趣小组。  
 **[Slack](https://slack.com/intl/zh-cn/)**：整合了电子邮件、短信、Google Drives、Twitter、Trello、Asana、GitHub 等 65 种工具和服务，可以把各种碎片化的企业沟通和协作集中到一起的聊天群组。  
