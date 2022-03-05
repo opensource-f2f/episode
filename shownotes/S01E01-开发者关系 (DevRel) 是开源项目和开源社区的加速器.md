@@ -32,7 +32,7 @@
 **[CNCF](https://www.cncf.io/)**：英文全称为 Cloud Native Computing Foundation，中文译为“云原生计算基金会”。成立这个组织的初衷或者愿景，简单说：推动云原生计算可持续发展；帮助云原生技术开发人员快速地构建出色的产品。  
 **maintainer**：主要维护者。  
 **community manager**：社区经历。  
-**CNCF ambassador**：大使。  
+**[CNCF ambassador](https://www.cncf.io/people/ambassadors/)**：CNCF 大使。  
 **[Kubernetes Community Days](https://community.cncf.io/kubernetes-community-days/about-kcd/)**：Kubernetes 社区组织的活动，聚集了来自开源和云原生社区的采用者和技术人员，以学习、协作和建立网络，以进一步推动 Kubernetes 的发展。  
 **[HashiCorp](https://www.hashicorp.com/)**：Mitchell Hashimoto 和 Armon Dadgar 创立，旨在重新构建云世界的基础设施管理。  
 **[Terraform](https://www.terraform.io/)**：是一种声明式编码工具，可以让开发人员用 HCL（HashiCorp 配置语言）高级配置语言来描述用于运行应用程序的“最终状态”云或本地基础架构。  
