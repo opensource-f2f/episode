@@ -42,7 +42,7 @@
 **SIG**：Special Interest Group 的缩写，中文翻译为特别兴趣小组。  
 **[Slack](https://slack.com/intl/zh-cn/)**：整合了电子邮件、短信、Google Drives、Twitter、Trello、Asana、GitHub 等 65 种工具和服务，可以把各种碎片化的企业沟通和协作集中到一起的聊天群组。  
 **[OpenStack](https://www.openstack.org/)**：一个开源的云计算管理平台项目，是一系列软件开源项目的组合。  
-**[MongoDB](https://www.mongodb.com/)**：是一个基于分布式文件存储的数据库。由C++语言编写。旨在为WEB应用提供可扩展的高性能数据存储解决方案。  
+**[MongoDB](https://www.mongodb.com/)**：是一个基于分布式文件存储的数据库。由 C++ 语言编写。旨在为 WEB 应用提供可扩展的高性能数据存储解决方案。  
 **[Elasticsearch](https://www.elastic.co/cn/elasticsearch/)**：一个实时的分布式存储、搜索、分析的引擎。  
 **VC**：风险投资（英语：Venture Capital，缩写为VC）简称风投，又译称为创业投资，主要是指向初创企业提供资金支持并取得该公司股份的一种融资方式。  
 **To B**、**To C**：To X 这个句式更多的是表明客户是哪类群体。B 是 Bussiness 的缩写，直译是商业，大家普遍把它作为机构客户的代名词。C 是 Consumer 的缩写，直译是消费者、用户或者顾客，因为日常生活中接触的绝大部分直接消费者都是个人，所以大家普遍把 C 作为个人客户的代名词。  
