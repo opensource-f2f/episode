@@ -1,12 +1,14 @@
 # S01E03-专访 S01E03 专访 YiHong，自学成为流行开源项目作者的点滴
 
 ## 嘉宾
-(Yihong)[https://github.com/yihong0618]
+
+[Yihong](https://github.com/yihong0618)
 
 > RunningPage、GitHubPoster 作者，VSCode-Leetcode 核心开发者，跑步爱好者
 
 ## 主持人
-(Wey Gu)[https://github.com/wey-gu] (开源相信者、程序员、图技术 advocate）
+
+[Wey Gu](https://github.com/wey-gu) (开源相信者、程序员、图技术 advocate）
 
 ## 时间线
 
@@ -24,13 +26,14 @@
 - 43:20 关于 YiHong 2021项目和 last word
 
 ## Staff
-剪辑： (Wey Gu)[https://github.com/wey-gu]
-文字编辑： (Wey Gu)[https://github.com/wey-gu]
+
+剪辑： [Wey Gu](https://github.com/wey-gu)
+文字编辑： [Wey Gu](https://github.com/wey-gu)
 
 ## 扩展阅读
 
-- https://www.youtube.com/watch?v=yBmS03iiVco 视频
-- https://www.xiaoyuzhoufm.com/episode/619896e8138b51cbd78f3912 音频
+- https://www.youtube.com/watch?v=yBmS03iiVco 本期视频
+- https://www.xiaoyuzhoufm.com/episode/619896e8138b51cbd78f3912 本期播客
 - https://github.com/yihong0618/running_page YiHong 写的跑步数据展示页项目
 - https://github.com/yihong0618/gaycore YiHong 第一个 side project 听机核的命令行客户端
 - https://github.com/yihong0618/2021 YiHong 从 Laike9m 被启发在 GH 上的个人年度博客/元数据项目
