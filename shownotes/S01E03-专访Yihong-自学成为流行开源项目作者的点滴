@@ -1,17 +1,17 @@
-# S0103-专访 S01E03 专访 YiHong，自学成为流行开源项目作者的点滴
-
-- https://www.youtube.com/watch?v=yBmS03iiVco
-- https://www.xiaoyuzhoufm.com/episode/619896e8138b51cbd78f3912
+# S01E03-专访 S01E03 专访 YiHong，自学成为流行开源项目作者的点滴
 
 ## 嘉宾
 (Yihong)[https://github.com/yihong0618]
 
 > RunningPage、GitHubPoster 作者，VSCode-Leetcode 核心开发者，跑步爱好者
 
+## 主持人
+(Wey Gu)[https://github.com/wey-gu] (开源相信者、程序员、图技术 advocate）
+
 ## 时间线
 
 - 00:00 Intro 
-- 0:28 YiHong 自我介绍
+- 00:28 YiHong 自我介绍
 - 01:54 决定开始投入经历在开源项目、社区上的契机，YiHong 分享了第一次在项目作者的热心帮助下入门 GitHub Flow、编程协作、linting 等工程细节的经历，并在把这份热心传给了别人
 - 10:54 YiHong 分享他在开源、公共空间自学编程的路径和经验：从 Human Resource Machine 这个游戏开始一步步自学实现第一个工作中的项目，第一个从零到一的 side project，进而成为全职 coder ... 
 - 19:21 在参与开源社区之中的印象深刻的经历-0
@@ -23,15 +23,14 @@
 - 41:00 YiHong 中长期的计划、打算(YiHong 对远程机会 Open!)
 - 43:20 关于 YiHong 2021项目和 last word
 
-## 主持人
-(Wey Gu)[https://github.com/wey-gu] (开源相信者、程序员、图技术 advocate）
-
 ## Staff
 剪辑： (Wey Gu)[https://github.com/wey-gu]
 文字编辑： (Wey Gu)[https://github.com/wey-gu]
 
 ## 扩展阅读
 
+- https://www.youtube.com/watch?v=yBmS03iiVco 视频
+- https://www.xiaoyuzhoufm.com/episode/619896e8138b51cbd78f3912 音频
 - https://github.com/yihong0618/running_page YiHong 写的跑步数据展示页项目
 - https://github.com/yihong0618/gaycore YiHong 第一个 side project 听机核的命令行客户端
 - https://github.com/yihong0618/2021 YiHong 从 Laike9m 被启发在 GH 上的个人年度博客/元数据项目
