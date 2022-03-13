@@ -28,7 +28,7 @@ Twitter（可选）:
 
 建议嘉宾[订阅《开源面对面》的邮件列表](mailto:jenkinsci-users+subscribe@googlegroups.com)，方便后续发送录制的会议邀请。
 
-> 注意：建议推荐人先私下得嘉宾同意后再创建 issue 作为正式邀请
+> 注意：建议推荐人先私下得到嘉宾同意后再创建 issue 作为正式邀请
 > GitHub ID 用于邀请加入[本组织](https://github.com/opensource-f2f)，欢迎嘉宾在加入组织后设置为公开可见
 > Twitter 用于节目录制过程中与嘉宾互动
 > 博客或其他链接会加到 shownotes 中作为扩展阅读
