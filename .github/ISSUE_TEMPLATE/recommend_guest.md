@@ -19,10 +19,10 @@ assignees: ''
 最新栏目设置请移步 https://github.com/opensource-f2f/episode#episode 查看。
  -->
 
-GitHub: 
+GitHub（可选）：
 所在公司/岗位（可选）：
 Twitter（可选）:
-博客地址（可选）：
+博客地址（或其他媒体平台）（可选）：
 推荐理由：
 推荐人：
 
