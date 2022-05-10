@@ -1,15 +1,13 @@
 name: 推荐嘉宾
 description: 如果您想推荐一位嘉宾录制播客，请选择本条模板填写内容
 title: '推荐嘉宾 - [姓名/花名/昵称]（栏目）'
-#   1. 推荐格式为"推荐嘉宾 - " + 推荐人的姓名/花名/昵称 + "（栏目）"，栏目可省略；
-# 例如： "推荐嘉宾 - 张三（个人成长系列）"、"推荐嘉宾 - 李四"。
 
 body:
   - type: markdown
     attributes:
       value: |
         ### 标题格式
-        推荐格式为 `推荐嘉宾 - [推荐人的姓名/花名/昵称] [栏目]`，栏目可省略；
+        推荐格式为 `推荐嘉宾 - [推荐人的姓名/花名/昵称] （栏目）`，栏目可省略；
         例如：`推荐嘉宾 - 张三（个人成长系列）` `推荐嘉宾 - 李四`
 
   - type: input
@@ -17,7 +15,7 @@ body:
     attributes:
       label: 栏目
       description: |
-        目前已有栏目 `个人成长系列`、`开源岗位系列`、`番外篇`。
+        目前已有栏目 `个人成长系列`、`开源岗位系列`、`开源项目系列`、`番外篇`。
         最新栏目设置请移步 [访谈系列](https://github.com/opensource-f2f/episode#%E8%AE%BF%E8%B0%88%E7%B3%BB%E5%88%97) 查看。
     validations:
       required: true
@@ -68,17 +66,12 @@ body:
     validations:
       required: true
 
-  - type: textarea
-    id: additaio
-    attributes:
-      label: 推荐理由
-
   - type: checkboxes
     attributes:
       label: note
       options:
-        - label: 建议嘉宾[订阅《开源面对面》的邮件列表](mailto:osf2f+subscribe@googlegroups.com)，方便后续发送录制的会议邀请。
-        - label: 可参考[播客录音指南](https://www.bilibili.com/video/BV1kq4y1c7Nu)准备好录音设备与环境。
+        - label: 建议嘉宾 [订阅《开源面对面》的邮件列表](mailto:osf2f+subscribe@googlegroups.com)（发送邮件被视为订阅），方便后续发送录制的会议邀请。
+        - label: 可参考 [播客录音指南](https://www.bilibili.com/video/BV1kq4y1c7Nu) 准备好录音设备与环境。
 
   - type: markdown
     attributes:
