@@ -25,4 +25,4 @@
 
 ## 扩展阅读
 * [白宦成简史](https://mp.weixin.qq.com/s/u8MJEZy-4zgEo290FUAaug)
-* [RTE NG-Lab：一起探索下一代实时互动新世界](RTE NG-Lab：一起探索下一代实时互动新世界)
+* [RTE 孵化器：一起探索下一代实时互动新世界](https://mp.weixin.qq.com/s/wPC1rsByelGPeLX1sGuo3w)
