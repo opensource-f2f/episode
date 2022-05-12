@@ -1,7 +1,7 @@
 # S01E11 白宦成：开源的魅力在于 show in public
 
 ## 嘉宾
-白宦成，自由职业者
+[白宦成](https://github.com/bestony)，独立开发者
 
 ## 主持人
 * [Mikey](https://github.com/fowse2020)
