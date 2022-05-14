@@ -22,7 +22,6 @@
 ## Staff
 剪辑/文字编辑：[Rick](https://github.com/linuxsuren)
 
-
 ## 扩展阅读
 * [白宦成简史](https://mp.weixin.qq.com/s/u8MJEZy-4zgEo290FUAaug)
 * [独立开发者孵化器](https://www.nglab.io/incubator)
