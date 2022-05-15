@@ -1,0 +1,19 @@
+workspace: opensource-f2f
+events:
+  - date: 2022-05-15
+    title: 技术博客月第二次讨论
+    type: meeting
+    link: https://rkawrngf0e.feishu.cn/docs/doccn8ojRP78eFvN5XQAp8gd1Eh
+    participants:
+      - github: linuxsuren
+      - github: tisonkun
+      - github: wey-gu
+      - github: Suave
+      - github: sxzz
+      - github: kang8
+      - github: fowse2020
+      - github: Otto-J
+      - github: Ifsoboy00
+      - github: WillemJiang
+      - github: miyaliu666
+      - github: zhuangbiaowei
