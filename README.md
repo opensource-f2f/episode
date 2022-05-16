@@ -68,6 +68,7 @@
 |---|---|
 | [StreamNative](https://streamnative.io/) | 北京市东城区法华寺街91号，德必WE国际文化创意中心 |
 | [OpenTEKr](https://www.opentekr.com) | 上海市静安区愚园东路28号东海广场3号楼8楼 |
+| [Monster Works](http://www.gamesound.com.cn) | 北京市朝阳区北苑东路中国铁建广场E座1011 |
 
 ## 可访问的平台
 
