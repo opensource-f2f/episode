@@ -1,0 +1,66 @@
+name: 听友面对面
+description: 能给到每一位听友启发甚至帮助，是我们最大的心愿，如果您希望跟我们的某些主播、嘉宾进一步交流，请选择本条模板填写内容
+title: '听友面对面 - [主播|嘉宾] - 节目ID（例如：S01E01）'
+
+body:
+  - type: markdown
+    attributes:
+      label: 您的自我介绍
+      value: |
+        姓名（花名）：xxx
+        和主题相关的个人背景经历等，已经任何有助于主播（嘉宾）了解你的信息
+
+  - type: input
+    id: name
+    attributes:
+      label: 主播或嘉宾名称
+      description: 姓名、花名或昵称
+    validations:
+      required: true
+
+  - type: input
+    id: github
+    attributes:
+      label: 您的 GitHub ID
+      description: 例如：https://github.com/linuxsuren 的 ID 就是 linuxsuren，可选
+
+  - type: input
+    id: org
+    attributes:
+      label: 您所在的公司/组织/岗位
+      description: 所在公司、组织或岗位，可选
+
+  - type: input
+    id: twitter
+    attributes:
+      label: 您的 Twitter
+      description: Twitter ID，可选
+
+  - type: input
+    id: blog
+    attributes:
+      label: 您的博客或其他地址
+      description: 或其他媒体平台，可选
+
+  - type: textarea
+    id: reason
+    attributes:
+      label: 希望交流的话题
+      description: 请您避免选择可能涉及到敏感、隐私的话题
+    validations:
+      required: true
+
+  - type: checkboxes
+    attributes:
+      label: note
+      options:
+        - label: 建议 [订阅《开源面对面》的邮件列表](mailto:osf2f+subscribe@googlegroups.com)（发送邮件被视为订阅），方便后续发送录制的会议邀请。
+
+  - type: markdown
+    attributes:
+      value: |
+        ### 注意
+
+        我们不能保证您期望交流的主播、嘉宾一定能抽出时间来，或者方便针对您所提出的主题进行直播交流。
+
+      label: note
