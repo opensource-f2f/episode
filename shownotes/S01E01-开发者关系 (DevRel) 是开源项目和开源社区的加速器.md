@@ -1,3 +1,10 @@
+---
+num: 'S01E01'
+title: '[开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞)](https://www.ximalaya.com/sound/465458545)'
+guests: '[FeynmanZhou](https://github.com/FeynmanZhou)'
+hosts: '[majinghe](https://github.com/majinghe)、[Wey Gu](https://github.com/wey-gu)、[Rick](https://github.com/linuxsuren)'
+---
+
 # S01E01 开发者关系 (DevRel) 是开源项目和开源社区的加速器
 
 ## 嘉宾

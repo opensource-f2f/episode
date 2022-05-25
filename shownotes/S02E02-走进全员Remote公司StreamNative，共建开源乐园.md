@@ -1,3 +1,10 @@
+---
+num: 'S02E02'
+title: '[走进全员 Remote 公司 StreamNative，共建开源乐园](https://www.ximalaya.com/sound/506240866)'
+guests: '[王殿进](https://github.com/tuhaihe)、[黄小冰](https://github.com/huangxiaobing1987)'
+hosts: '[Rick](https://github.com/linuxsuren)'
+---
+
 # S02E02 走进全员 Remote 公司 StreamNative，共建开源乐园
 
 参与开源除了可以“靠爱发电”，选择一家以开源为生的公司，把开源当作一份全职工作也是非常值得你考虑的选择。国内支持 remote（远程）工作的企业依然是少数，而 StreamNative 更是一家全员 remote 的开源商业化公司。热爱开源的你，本期节目不容错过！
