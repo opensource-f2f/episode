@@ -1,3 +1,10 @@
+---
+num: 'S01E03'
+title: '[专访 YiHong，自学成为流行开源项目作者的点滴](https://www.ximalaya.com/sound/474215643)'
+guests: '[YiHong](https://github.com/yihong0618)'
+hosts: '[Wey Gu](https://github.com/wey-gu)'
+---
+
 # S01E03 - 专访 YiHong，自学成为流行开源项目作者的点滴
 
 ## 嘉宾

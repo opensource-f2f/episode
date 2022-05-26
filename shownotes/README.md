@@ -3,6 +3,13 @@
 模板如下：
 
 ```markdown
+---
+num: 'S01E00'
+title: ''
+guests: ''
+hosts: ''
+---
+
 # 节目名称
 
 ## 嘉宾
