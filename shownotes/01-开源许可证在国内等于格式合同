@@ -1,5 +1,5 @@
 ---
-num: 'S02E13'
+num: '01'
 title: '[番外 01]开源许可证在国内等于格式合同'
 guests: '振华'
 hosts: 'Mikey & Rick'
@@ -15,8 +15,8 @@ hosts: 'Mikey & Rick'
 
 ## 主持人
 
-- [Mikey](https://github.com/MikeyWei) 声网技术内容布道师、前技术社区媒体人，开源与安全技术爱好者。
-- [Rick](https://github.com/linuxsuren) 开源爱好者、业余开源布道者。
+- [Mikey](https://github.com/MikeyWei) 声网技术内容布道师、前技术社区媒体人，开源与安全技术爱好者
+- [Rick](https://github.com/linuxsuren) 开源爱好者、业余开源布道者
 
 ## 时间线
 00:32 嘉宾介绍
@@ -41,20 +41,15 @@ hosts: 'Mikey & Rick'
 
 ## Staff
 
-剪辑：[Mikey](https://github.com/MikeyWei)
-
-文字编辑：
+剪辑/文字编辑：[Mikey](https://github.com/MikeyWei)
 
 文字修正：
 
 ## 扩展阅读
 
-商标 / 许可证侵权类事件
-
 - 2021年9月， [Apache Doris](https://mp.weixin.qq.com/s/QnJ6LFaMOpLasdRpFzGFJA) 与 [DorisDB](https://mp.weixin.qq.com/s/3zHPnPbowIj_OpMIHAobGA) 事件。
 - 2020 年以来围绕 [PostgreSQL](https://www.postgresql.org/) 商标 PGCAC (PostgreSQL Community Association of Canada) 与 Fundación PostgreSQL 的争执。
-- 国内智能设备制造商深圳 [UMIDIGI 因违反 GPLv2 协议引发争议](https://www.oschina.net/news/156938/umidigi-violate-the-gplv2-license)，此前就有国内厂商 Onyx 因无视 GPLv2 协议而[被抨击](https://www.oschina.net/action/GoToLink?url=http://mp.weixin.qq.com/s?__biz=MjM5NzM0MjcyMQ==&mid=2650092217&idx=1&sn=471af06ecf855085b27a48f91c675b95&chksm=bedae9d789ad60c1e7fcf0e454f4cdb081b2758d8d8fb27011737b728d911e9be4f1adf4838c&scene=21#wechat_redirect)。
-
+- 国内智能设备制造商深圳 [UMIDIGI 因违反 GPLv2 协议引发争议](https://www.oschina.net/news/156938/umidigi-violate-the-gplv2-license)，此前就有国内厂商 Onyx 因无视 GPLv2 协议而[被抨击](https://mp.weixin.qq.com/s/QgCWbNjc9wnEhRcfXkkSKg)。
 - 2021年[国内首个 GPL 相关判例](https://www.oschina.net/news/159435)，裁判文书网上的[判决书](https://ipc.court.gov.cn/zh-cn/news/view-1823.html)的信息显示，GPL v3协议具有合同性质，是授权方和用户订立的格式化著作权协议。
 - 知名 NPM 项目作者“[删库跑路](https://www.reddit.com/r/programming/comments/rz5rul/marak_creator_of_fakerjs_who_recently_deleted_the/)”事件。
 - Netfilter 内核子系统贡献者 Patrick McHardy 在18个月内成功[滥用版权诉讼“勒索”相关企业200万欧元](https://lore.kernel.org/netdev/Ye6jCQm7z0Yr3bqA@salvia/T/?s=03)但最终和解事件。
