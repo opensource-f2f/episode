@@ -22,7 +22,7 @@
 | S01E07 | [面对开放的大门，技术小白可以怎样开始参与开源](https://www.ximalaya.com/sound/511091248) | [李梦](https://github.com/LiMeng00) | [Rick](https://github.com/linuxsuren) |
 | S01E08 | [小雅：我在读研期间参与 CHAOSS 开源社区的心路经历](https://www.ximalaya.com/sound/513184857) | [小雅](https://github.com/xiaoya-Esther) | [Wey Gu](https://github.com/wey-gu)、[majinghe](https://github.com/majinghe)、[Rick](https://github.com/linuxsuren) |
 | S01E09 | [开源运营：运营能为开源带来什么](https://www.ximalaya.com/sound/525396260) | 五花肉、潘潘 | [Mikey](https://github.com/fowse2020)、[琚致远](https://github.com/juzhiyuan)、[Rick](https://github.com/linuxsuren) |
-| S01E10 | [李浩然：参与开源要遵循能量守恒](https://www.ximalaya.com/sound/530491866) | 李浩然 | [Rick](https://github.com/linuxsuren)（开源爱好者、业余开源布道者） |
+| S01E10 | [李浩然：参与开源要遵循能量守恒](https://www.ximalaya.com/sound/530491866) | 李浩然 | [Rick](https://github.com/linuxsuren) |
 | S01E11 | [白宦成：开源的魅力在于 show in public](https://www.ximalaya.com/sound/531364209) | [白宦成](https://github.com/bestony) | [Mikey](https://github.com/MikeyWei)、[Rick](https://github.com/linuxsuren) |
 | S01E12 | [小宇：一名测试工程师探索开源世界的经历](https://www.ximalaya.com/sound/535649165) | [小宇](https://github.com/SongDunYu) | [Rick](https://github.com/linuxsuren) |
 | S02E01 | [从商业到开源社区，聊聊 JuiceFS 的开发者招聘](https://www.ximalaya.com/sound/482662081) | [Rui Su](https://github.com/Suave) | [Rick](https://github.com/linuxsuren) |
