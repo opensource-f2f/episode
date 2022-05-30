@@ -2,16 +2,16 @@
 num: 'S01E11'
 title: '[白宦成：开源的魅力在于 show in public](https://www.ximalaya.com/sound/531364209)'
 guests: '[白宦成](https://github.com/bestony)'
-hosts: '[Mikey](https://github.com/fowse2020)、[Rick](https://github.com/linuxsuren)'
+hosts: '[Mikey](https://github.com/MikeyWei)、[Rick](https://github.com/linuxsuren)'
 ---
 
 # S01E11 白宦成：开源的魅力在于 show in public
 
 ## 嘉宾
-[白宦成](https://github.com/bestony)，独立开发者
+[白宦成](https://github.com/bestony) 独立开发者
 
 ## 主持人
-* [Mikey](https://github.com/fowse2020)
+* [Mikey](https://github.com/MikeyWei) 声网技术内容布道师、前技术社区媒体人，开源与安全技术爱好者
 
 * [Rick](https://github.com/linuxsuren)（开源爱好者、业余开源布道者）
 
