@@ -4,8 +4,6 @@
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCV7Ibg1k_aMSEcDFgJvuvdg?style=social)](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg)
 [![Rss](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](http://www.ximalaya.com/album/53320813.xml)
 
-> 该文件是自动生成的，如果需要修改或者新增内容，请修改 [README.tpl](README.tpl) 或目录 `shownotes` 下的 Markdown 文件。
-
 # 开源面对面
 
 《开源面对面》是个系列访谈节目，旨在通过采访不同行业、岗位的开源参与者的亲身经历、心得体会，让更多的从业人员感受到参与开源是一种积极的趋势与良好的
