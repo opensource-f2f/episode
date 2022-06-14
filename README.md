@@ -24,6 +24,7 @@
 | S01E12 | [小宇：一名测试工程师探索开源世界的经历](https://www.ximalaya.com/sound/535649165) | [小宇](https://github.com/SongDunYu) | [Rick](https://github.com/linuxsuren) |
 | S02E01 | [从商业到开源社区，聊聊 JuiceFS 的开发者招聘](https://www.ximalaya.com/sound/482662081) | [Rui Su](https://github.com/Suave) | [Rick](https://github.com/linuxsuren) |
 | S02E02 | [走进全员 Remote 公司 StreamNative，共建开源乐园](https://www.ximalaya.com/sound/506240866) | [王殿进](https://github.com/tuhaihe)、[黄小冰](https://github.com/huangxiaobing1987) | [Rick](https://github.com/linuxsuren) |
+| S03E01 | [iOS 开源项目 IceCream 与其作者蔡越的故事](https://www.ximalaya.com/sound/543173721) | [蔡越](https://github.com/caiyue1993) | [Rick](https://github.com/linuxsuren) |
 
 ## 背景
 
