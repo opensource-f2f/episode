@@ -16,13 +16,13 @@ IceCream helps you sync Realm Database with CloudKit.
 
 ## 时间线
 * 00:33 IceCream 作者蔡越自我介绍
-* 01:33 ICloud 同步的原理基本介绍p
-* 03:56 Apple Container 原理介绍
+* 01:33 iCloud 同步的原理基本介绍p
+* 03:56 CloudKit Container 原理介绍
 * 07:08 用于测试的苹果沙盒账号介绍
 * 09:24 Apple 应用之间的数据是相互隔离的
 * 14:21 聊开源项目如何能获知有哪些用户
-* 15:50 Ice Cream 开源项目的起源
-* 21:03 Ice Cream 一经问世就受到了圈内人士的关注
+* 15:50 IceCream 开源项目的起源
+* 21:03 IceCream 一经问世就受到了圈内人士的关注
 * 29:44 和 Realm 沟通关于 IceCream 的事宜
 * 32:41 维护开源项目会对个人、工作上有哪些影响呢
 * 37:20 No is temporary, yes is forever
@@ -40,3 +40,4 @@ IceCream helps you sync Realm Database with CloudKit.
 # 扩展阅读
 * https://opensource.guide/best-practices/
 * https://github.com/caiyue1993/IceCream
+* https://apps.apple.com/app/music-mate-for-apple-music/id1605379758
