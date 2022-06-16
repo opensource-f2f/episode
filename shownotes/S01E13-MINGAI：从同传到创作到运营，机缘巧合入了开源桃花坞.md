@@ -1,7 +1,7 @@
 ---
 num: 'S01E13'
 title: 'MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞'
-guests: 'MINGAI'
+guests: '[MINGAI](https://github.com/PROPELLER-ZMA)'
 hosts: '[Rick](https://github.com/linuxsuren)'
 ---
 
@@ -9,7 +9,7 @@ hosts: '[Rick](https://github.com/linuxsuren)'
 
 
 ## 嘉宾
-MINGAI
+[MINGAI](https://twitter.com/ZMA222222) 开源双语故事记录者
 
 ## 主持人
 * [Rick](https://github.com/linuxsuren)（开源爱好者、业余开源布道者）
