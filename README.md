@@ -82,6 +82,7 @@
 * [ByteTalk](https://bytetalk.fm/)
 * [ALC Beijing Podcast](https://www.ximalaya.com/keji/37853515/)
 * [OpenTEKr 大话开源](https://www.ximalaya.com/album/55050616)
+* [开源社·陪你看开源](https://www.xiaoyuzhoufm.com/podcast/6286388483ddae2d9e72a79d)
 
 ## 支持我们
 
