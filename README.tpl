@@ -10,7 +10,7 @@
 | 序号 | 标题 | 嘉宾 | 主持人 |
 |:---:|---|---|---|
 {{- range $val := .}}
-| {{$val.num}} | {{$val.title}} | {{ghs "$val.guests" "、"}} | {{ghs "$val.hosts" "、"}} |
+| {{$val.num}} | {{$val.title}} | {{ghs $val.guests "、"}} | {{ghs $val.hosts "、"}} |
 {{- end}}
 
 ## 背景
