@@ -1,8 +1,8 @@
 ---
 num: 'S01E13'
 title: '[MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞](https://www.xiaoyuzhoufm.com/episode/62ad34c6b515adbf1d3fc96a)'
-guests: '[MINGAI](https://github.com/PROPELLER-ZMA)'
-hosts: '[Rick](https://github.com/linuxsuren)'
+guests: 'PROPELLER-ZMA'
+hosts: 'linuxsuren'
 ---
 
 # S01E13 MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞
