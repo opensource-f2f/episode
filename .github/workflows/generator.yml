@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3
       - name: Update readme
-        uses: linuxsuren/yaml-readme@v0.0.11
+        uses: linuxsuren/yaml-readme@c5274e6c48d9330ff7493643604a1a864f2028b3 #master
         env:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:

@@ -13,6 +13,21 @@
 | {{$val.num}} | {{$val.title}} | {{ghs $val.guests "、"}} | {{ghs $val.hosts "、"}} |
 {{- end}}
 
+## 嘉宾&主持人
+
+{{$items := list ""}}
+{{- range $val := .}}
+{{- range $item := (splitList "、" $val.hosts)}}
+{{$items = append $items (ghID $item)}}
+{{- end}}
+{{- range $item := (splitList "、" $val.guests)}}
+{{$items = append $items $item}}
+{{- end}}
+{{- end}}
+{{- range $item := ((without $items "") | uniq)}}
+* {{gh $item true}}
+{{- end}}
+
 ## 背景
 
 不论你身处何种岗位，参与开源都可以在很大程度上获益。但对部分人来说，参与开源有点深不可测；对有的人而言，参与开源好像是在为其他公司“免费打工”；
