@@ -2,7 +2,7 @@
 num: 'S01E08'
 title: '[小雅：我在读研期间参与 CHAOSS 开源社区的心路经历](https://www.ximalaya.com/sound/513184857)'
 guests: 'xiaoya-yaya'
-hosts: 'wey-gu)、majinghe、linuxsuren'
+hosts: 'wey-gu、majinghe、linuxsuren'
 ---
 
 # S01E08 小雅：我在读研期间参与 CHAOSS 开源社区的心路经历
