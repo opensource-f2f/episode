@@ -103,7 +103,7 @@
 * [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
 * [琚致远](https://github.com/juzhiyuan) (Member of TheASF · freeCodeCamp)
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
-* [李梦](https://github.com/LiMeng00) (%!s(&lt;nil&gt;))
+* [李梦](https://github.com/LiMeng00)
 * xiaoya-Esther
 * [琚致远](https://github.com/juzhiyuan) (Member of TheASF · freeCodeCamp)
 * 五花肉
@@ -111,10 +111,10 @@
 * 李浩然
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
 * SongDunYu
-* [ZMA](https://github.com/PROPELLER-ZMA) (%!s(&lt;nil&gt;))
+* [ZMA](https://github.com/PROPELLER-ZMA)
 * [Rui Su](https://github.com/Suave)
 * [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang @streamnative)
-* [Xiaobing Huang](https://github.com/huangxiaobing1987) (%!s(&lt;nil&gt;))
+* [Xiaobing Huang](https://github.com/huangxiaobing1987)
 * [Yue](https://github.com/caiyue1993) (Skateboarder/iOS Engineer/Life Hacker
 &#34;No is temporary, yes is forever.&#34;)
 
