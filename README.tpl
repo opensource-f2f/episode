@@ -1,3 +1,4 @@
+#!yaml-readme -p shownotes/*.md --output README.md
 [![Twitter Follow](https://img.shields.io/twitter/follow/osf2f?style=social)](https://twitter.com/osf2f)
 [![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCV7Ibg1k_aMSEcDFgJvuvdg?style=social)](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg)
 [![Rss](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](http://www.ximalaya.com/album/53320813.xml)
@@ -11,21 +12,6 @@
 |:---:|---|---|---|
 {{- range $val := .}}
 | {{$val.num}} | {{$val.title}} | {{ghs $val.guests "、"}} | {{ghs $val.hosts "、"}} |
-{{- end}}
-
-## 嘉宾&主持人
-
-{{$items := list ""}}
-{{- range $val := .}}
-{{- range $item := (splitList "、" $val.hosts)}}
-{{$items = append $items (ghID $item)}}
-{{- end}}
-{{- range $item := (splitList "、" $val.guests)}}
-{{$items = append $items $item}}
-{{- end}}
-{{- end}}
-{{- range $item := ((without $items "") | uniq)}}
-* {{gh $item true}}
 {{- end}}
 
 ## 背景
@@ -54,6 +40,23 @@
 如果你与我们的想法不谋而合，欢迎[加入](member.md)！如果你愿意讲述你的开源故事，欢迎自荐或者推荐周围的朋友。
 
 ## 致谢
+
+{{- $items := list "" -}}
+{{- range $val := . -}}
+{{- range $item := (splitList "、" $val.hosts) -}}
+{{- $items = append $items (lower (ghID $item)) -}}
+{{- end -}}
+{{- range $item := (splitList "、" $val.guests) -}}
+{{- $items = append $items (lower (ghID $item)) -}}
+{{- end -}}
+{{- end -}}
+{{$items = ((without $items "") | uniq | sortAlpha)}}
+
+感谢以下 {{len $items}} 位嘉宾和主持人的支持：
+
+{{range $item := $items}}
+* {{gh $item true}}
+{{- end}}
 
 感谢以下组织（公司）为《开源面对面》提供录音场地：
 
