@@ -15,17 +15,17 @@
 | 01 | [开源许可证在国内等于格式合同](https://www.ximalaya.com/sound/538384632) | 振华 | [Mikey Wei](https://github.com/MikeyWei)、[Rick](https://github.com/LinuxSuRen) |
 | S01E00 | [开源面对面节目自述](https://www.ximalaya.com/sound/456334989) | [majinghe](https://github.com/majinghe)、[Rick](https://github.com/linuxsuren) | [Wey Gu](https://github.com/wey-gu) |
 | S01E01 | [开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞)](https://www.ximalaya.com/sound/465458545) | [FeynmanZhou](https://github.com/FeynmanZhou) | [majinghe](https://github.com/majinghe)、[Wey Gu](https://github.com/wey-gu)、[Rick](https://github.com/linuxsuren) |
-| S01E02 | [李自：参与开源社区的原动力探索——自我价值的实现和社会认可](https://www.ximalaya.com/sound/466962028) | [李自](https://github.com/robekeane) | [Rick](https://github.com/linuxsuren) |
+| S01E02 | [李自：参与开源社区的原动力探索——自我价值的实现和社会认可](https://www.ximalaya.com/sound/466962028) | [Clement Li](https://github.com/clm-li) | [Rick](https://github.com/LinuxSuRen) |
 | S01E03 | [专访 YiHong，自学成为流行开源项目作者的点滴](https://www.ximalaya.com/sound/474215643) | [YiHong](https://github.com/yihong0618) | [Wey Gu](https://github.com/wey-gu) |
 | S01E04 | [Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使](https://www.ximalaya.com/sound/484328758) | [Miya](https://github.com/miyaliu666) | [Rick](https://github.com/linuxsuren)、[majinghe](https://github.com/majinghe) |
 | S01E05 | [专访 琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区](https://www.ximalaya.com/sound/493354361) | [琚[jū]致远](https://github.com/juzhiyuan) | [Wey Gu](https://github.com/wey-gu)、[majinghe](https://github.com/majinghe)、[Rick](https://github.com/linuxsuren) |
 | S01E06 | [从民营书店进货员到开源创业工程师的故事](https://www.ximalaya.com/sound/510054673) | [水歌](https://github.com/TechQuery) | [Rick](https://github.com/linuxsuren) |
 | S01E07 | [面对开放的大门，技术小白可以怎样开始参与开源](https://www.ximalaya.com/sound/511091248) | [李梦](https://github.com/LiMeng00) | [Rick](https://github.com/linuxsuren) |
 | S01E08 | [小雅：我在读研期间参与 CHAOSS 开源社区的心路经历](https://www.ximalaya.com/sound/513184857) | [Xiaoya](https://github.com/xiaoya-yaya) | [Wey Gu](https://github.com/wey-gu)、[majinghe](https://github.com/majinghe)、[Rick](https://github.com/LinuxSuRen) |
-| S01E09 | [开源运营：运营能为开源带来什么](https://www.ximalaya.com/sound/525396260) | 五花肉、潘潘 | [Mikey](https://github.com/MikeyWei)、[琚致远](https://github.com/juzhiyuan)、[Rick](https://github.com/linuxsuren) |
+| S01E09 | [开源运营：运营能为开源带来什么](https://www.ximalaya.com/sound/525396260) | 五花肉、[CandicePan](https://github.com/Candicepan) | [Mikey Wei](https://github.com/MikeyWei)、[琚致远](https://github.com/juzhiyuan)、[Rick](https://github.com/LinuxSuRen) |
 | S01E10 | [李浩然：参与开源要遵循能量守恒](https://www.ximalaya.com/sound/530491866) | 李浩然 | [Rick](https://github.com/linuxsuren) |
 | S01E11 | [白宦成：开源的魅力在于 show in public](https://www.ximalaya.com/sound/531364209) | [白宦成](https://github.com/bestony) | [Mikey](https://github.com/MikeyWei)、[Rick](https://github.com/linuxsuren) |
-| S01E12 | [小宇：一名测试工程师探索开源世界的经历](https://www.ximalaya.com/sound/535649165) | [小宇](https://github.com/SongDunYu) | [Rick](https://github.com/linuxsuren) |
+| S01E12 | [小宇：一名测试工程师探索开源世界的经历](https://www.ximalaya.com/sound/535649165) | [DunyuSong](https://github.com/DunyuSong) | [Rick](https://github.com/LinuxSuRen) |
 | S01E13 | [MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞](https://www.xiaoyuzhoufm.com/episode/62ad34c6b515adbf1d3fc96a) | [ZMA](https://github.com/PROPELLER-ZMA) | [Rick](https://github.com/LinuxSuRen) |
 | S01E14 | [亮小猪：从开发到管理到开发者关系，他都经历了什么](https://www.xiaoyuzhoufm.com/episode/62be4fcc2f72f104a27b5dec) | [Shiny](https://github.com/shinyzhu) | [Rick](https://github.com/LinuxSuRen)、[Wey Gu](https://github.com/wey-gu)、[ZMA](https://github.com/PROPELLER-ZMA) |
 | S02E01 | [从商业到开源社区，聊聊 JuiceFS 的开发者招聘](https://www.ximalaya.com/sound/482662081) | [Rui Su](https://github.com/Suave) | [Rick](https://github.com/linuxsuren) |
@@ -103,7 +103,7 @@
 * [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
 * [Rick](https://github.com/LinuxSuRen) (程序员，业余开源布道者)
 * [Feynman Zhou](https://github.com/FeynmanZhou) (@cncf @cdfoundation ambassador, @microsoft PM )
-* robekeane
+* [Clement Li](https://github.com/clm-li) (LF-AI&amp;Data OpenDataology Project Manager, CHAOSS Member, MindSpore DevEXP Leader)
 * [yihong](https://github.com/yihong0618) (The best is yet to come.)
 * [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
 * [琚致远](https://github.com/juzhiyuan) (Member of TheASF · freeCodeCamp)
@@ -112,10 +112,10 @@
 * [Xiaoya](https://github.com/xiaoya-yaya) (Moving on)
 * [琚致远](https://github.com/juzhiyuan) (Member of TheASF · freeCodeCamp)
 * 五花肉
-* 潘潘
+* [CandicePan](https://github.com/Candicepan)
 * 李浩然
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
-* SongDunYu
+* [DunyuSong](https://github.com/DunyuSong)
 * [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
 * [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j.)
 * [Rui Su](https://github.com/Suave)
