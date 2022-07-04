@@ -32,98 +32,6 @@
 | S02E02 | [走进全员 Remote 公司 StreamNative，共建开源乐园](https://www.ximalaya.com/sound/506240866) | [王殿进](https://github.com/tuhaihe)、[黄小冰](https://github.com/huangxiaobing1987) | [Rick](https://github.com/linuxsuren) |
 | S03E01 | [iOS 开源项目 IceCream 与其作者蔡越的故事](https://www.ximalaya.com/sound/543173721) | [蔡越](https://github.com/caiyue1993) | [Rick](https://github.com/linuxsuren) |
 
-## 嘉宾&主持人
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-* [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
-* [Wey Gu](https://github.com/wey-gu) (Developer Advocate @vesoft-inc)
-* [Satoh Chen](https://github.com/Satohchen) (24hours person !)
-* [Rick](https://github.com/LinuxSuRen) (程序员，业余开源布道者)
-* [Mikey Wei](https://github.com/MikeyWei) (Just a errand)
-* 振华
-* [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
-* [Rick](https://github.com/LinuxSuRen) (程序员，业余开源布道者)
-* [Feynman Zhou](https://github.com/FeynmanZhou) (@cncf @cdfoundation ambassador, @microsoft PM )
-* [Clement Li](https://github.com/clm-li) (LF-AI&amp;Data OpenDataology Project Manager, CHAOSS Member, MindSpore DevEXP Leader)
-* [yihong](https://github.com/yihong0618) (The best is yet to come.)
-* [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
-* [琚致远](https://github.com/juzhiyuan) (Member of TheASF · freeCodeCamp)
-* [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
-* [李梦](https://github.com/LiMeng00)
-* [Xiaoya](https://github.com/xiaoya-yaya) (Moving on)
-* [琚致远](https://github.com/juzhiyuan) (Member of TheASF · freeCodeCamp)
-* 五花肉
-* [CandicePan](https://github.com/Candicepan)
-* 李浩然
-* [白宦成](https://github.com/bestony) (Ultimate Developer)
-* [DunyuSong](https://github.com/DunyuSong)
-* [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
-* [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j.)
-* [Rui Su](https://github.com/Suave)
-* [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang @streamnative)
-* [Xiaobing Huang](https://github.com/huangxiaobing1987)
-* [Yue](https://github.com/caiyue1993) (Skateboarder/iOS Engineer/Life Hacker
-&#34;No is temporary, yes is forever.&#34;)
-
 ## 背景
 
 不论你身处何种岗位，参与开源都可以在很大程度上获益。但对部分人来说，参与开源有点深不可测；对有的人而言，参与开源好像是在为其他公司“免费打工”；
@@ -150,6 +58,36 @@
 如果你与我们的想法不谋而合，欢迎[加入](member.md)！如果你愿意讲述你的开源故事，欢迎自荐或者推荐周围的朋友。
 
 ## 致谢
+
+感谢以下 25 位嘉宾和主持人的支持：
+
+
+* [白宦成](https://github.com/bestony) (Ultimate Developer)
+* [Yue](https://github.com/caiyue1993) (Skateboarder/iOS Engineer/Life Hacker
+&#34;No is temporary, yes is forever.&#34;)
+* [CandicePan](https://github.com/Candicepan)
+* [Clement Li](https://github.com/clm-li) (LF-AI&amp;Data OpenDataology Project Manager, CHAOSS Member, MindSpore DevEXP Leader)
+* [DunyuSong](https://github.com/DunyuSong)
+* [Feynman Zhou](https://github.com/FeynmanZhou) (@cncf @cdfoundation ambassador, @microsoft PM )
+* [Xiaobing Huang](https://github.com/huangxiaobing1987)
+* [琚致远](https://github.com/juzhiyuan) (Member of TheASF · freeCodeCamp)
+* [李梦](https://github.com/LiMeng00)
+* [Rick](https://github.com/LinuxSuRen) (程序员，业余开源布道者)
+* [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
+* [Mikey Wei](https://github.com/MikeyWei) (Just a errand)
+* [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
+* [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
+* [Satoh Chen](https://github.com/Satohchen) (24hours person !)
+* [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j - the world’s leading graph database and graph analysis platform.)
+* [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
+* [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
+* [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang @streamnative)
+* [Wey Gu](https://github.com/wey-gu) (Developer Advocate @vesoft-inc)
+* [Xiaoya](https://github.com/xiaoya-yaya) (Moving on)
+* [yihong](https://github.com/yihong0618) (The best is yet to come.)
+* 五花肉
+* 振华
+* 李浩然
 
 感谢以下组织（公司）为《开源面对面》提供录音场地：
 
