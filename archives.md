@@ -4,6 +4,9 @@ We're so excited to have a chance to talk to so many awesome people. Please feel
 ## [tison](https://github.com/tisonkun)
 [tison](https://github.com/tisonkun) (A modern wizard)
 
+### Video
+* [Why Contributors Stay And Grow](https://www.bilibili.com/video/BV1z34y1k7cf)
+
 ### Audio
 * [No. 22：为什么我们要提倡“上游优先”的开源协作模式](https://www.xiaoyuzhoufm.com/episode/62aeaf7864420396f3cf70fd)
 * [No.19: 聊一聊心目中开源那些事](https://www.xiaoyuzhoufm.com/episode/61f3a210b9172d392fe5362d)
