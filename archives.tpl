@@ -3,7 +3,7 @@ We're so excited to have a chance to talk to so many awesome people. Please feel
 
 {{- range $val := .}}
 ## {{gh $val.github false}}
-{{gh $val.github true}}
+{{printGHTable $val.github}}
 
 ### Video
 {{- range $video := $val.videos}}
