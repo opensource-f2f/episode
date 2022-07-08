@@ -13,6 +13,18 @@ jobs:
 
     steps:
       - uses: actions/checkout@v3
+      - name: Update archive
+        uses: linuxsuren/yaml-readme@85c4c536bba5fa90030c4d22b62d719e46e3dfd7 #master
+        env:
+          GH_TOKEN: ${{ secrets.GH_SECRETS }}
+        with:
+          pattern: 'archives/*.yaml'
+          template: 'archives.tpl'
+          output: 'archives.md'
+          username: linuxsuren
+          org: opensource-f2f
+          repo: episode
+          push: false
       - name: Update readme
         uses: linuxsuren/yaml-readme@85c4c536bba5fa90030c4d22b62d719e46e3dfd7 #master
         env:
