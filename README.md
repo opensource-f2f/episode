@@ -15,7 +15,7 @@
 | 01 | [开源许可证在国内等于格式合同](https://www.ximalaya.com/sound/538384632) | 振华 | [Mikey Wei](https://github.com/MikeyWei)、[Rick](https://github.com/LinuxSuRen) |
 | S01E00 | [开源面对面节目自述](https://www.ximalaya.com/sound/456334989) | [majinghe](https://github.com/majinghe)、[Rick](https://github.com/linuxsuren) | [Wey Gu](https://github.com/wey-gu) |
 | S01E01 | [开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞)](https://www.ximalaya.com/sound/465458545) | [FeynmanZhou](https://github.com/FeynmanZhou) | [majinghe](https://github.com/majinghe)、[Wey Gu](https://github.com/wey-gu)、[Rick](https://github.com/linuxsuren) |
-| S01E02 | [李自：参与开源社区的原动力探索——自我价值的实现和社会认可](https://www.ximalaya.com/sound/466962028) | [Clement Li](https://github.com/clm-li) | [Rick](https://github.com/LinuxSuRen) |
+| S01E02 | [李自：参与开源社区的原动力探索——自我价值的实现和社会认可](https://www.ximalaya.com/sound/466962028) | clm-li | [Rick](https://github.com/LinuxSuRen) |
 | S01E03 | [专访 YiHong，自学成为流行开源项目作者的点滴](https://www.ximalaya.com/sound/474215643) | [YiHong](https://github.com/yihong0618) | [Wey Gu](https://github.com/wey-gu) |
 | S01E04 | [Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使](https://www.ximalaya.com/sound/484328758) | [Miya](https://github.com/miyaliu666) | [Rick](https://github.com/linuxsuren)、[majinghe](https://github.com/majinghe) |
 | S01E05 | [专访 琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区](https://www.ximalaya.com/sound/493354361) | [琚[jū]致远](https://github.com/juzhiyuan) | [Wey Gu](https://github.com/wey-gu)、[majinghe](https://github.com/majinghe)、[Rick](https://github.com/linuxsuren) |
@@ -66,7 +66,7 @@
 * [Yue](https://github.com/caiyue1993) (Skateboarder/iOS Engineer/Life Hacker
 &#34;No is temporary, yes is forever.&#34;)
 * [CandicePan](https://github.com/Candicepan)
-* [Clement Li](https://github.com/clm-li) (LF-AI&amp;Data OpenDataology Project Manager, CHAOSS Member, MindSpore DevEXP Leader)
+* clm-li
 * [DunyuSong](https://github.com/DunyuSong)
 * [Feynman Zhou](https://github.com/FeynmanZhou) (@cncf @cdfoundation ambassador, @microsoft PM )
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
@@ -78,7 +78,7 @@
 * [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
 * [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
-* [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j - the world’s leading graph database and graph analysis platform.)
+* [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
 * [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang @streamnative)
