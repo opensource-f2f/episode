@@ -2,7 +2,15 @@
 
 We're so excited to have a chance to talk to so many awesome people. Please feel free to read those references about our guests if you're interested in their thoughts.
 ## [tison](https://github.com/tisonkun)
-[tison](https://github.com/tisonkun) (A modern wizard)
+|||
+|---|---|
+| Name | tison |
+| Location | Guangzhou |
+| Bio | A modern wizard |
+| Blog | https://tisonkun.org/ |
+| Twitter | [tison1096](https://twitter.com/tison1096) |
+| Organization | @apache |
+
 
 ### Video
 * [Why Contributors Stay And Grow](https://www.bilibili.com/video/BV1z34y1k7cf)
