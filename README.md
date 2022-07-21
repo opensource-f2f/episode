@@ -78,7 +78,7 @@
 * [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
 * [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
-* [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j)
+* [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j, Full stack developer.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
 * [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang @streamnative)
@@ -119,6 +119,7 @@
 * [ALC Beijing Podcast](https://www.ximalaya.com/keji/37853515/)
 * [OpenTEKr 大话开源](https://www.ximalaya.com/album/55050616)
 * [开源社·陪你看开源](https://www.xiaoyuzhoufm.com/podcast/6286388483ddae2d9e72a79d)
+* [开源雨林—大咖访谈](https://www.xiaoyuzhoufm.com/podcast/62d5329cc606feab61b21815)
 
 ## 支持我们
 
