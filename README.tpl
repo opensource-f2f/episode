@@ -81,14 +81,13 @@
 * [gaycore 是 Python 编写的客户端](https://github.com/yihong0618/gaycore)
 * [goplay 是 Golang 编写的客户端](https://github.com/LinuxSuRen/goplay)
 
-## 更多开源相关的音视频节目
+## 以开源为主题的播客
 
-* [迪魔王Devmore](https://www.ximalaya.com/zhubo/343307074/)
-* [ByteTalk](https://bytetalk.fm/)
 * [ALC Beijing Podcast](https://www.ximalaya.com/keji/37853515/)
 * [OpenTEKr 大话开源](https://www.ximalaya.com/album/55050616)
 * [开源社·陪你看开源](https://www.xiaoyuzhoufm.com/podcast/6286388483ddae2d9e72a79d)
 * [开源雨林—大咖访谈](https://www.xiaoyuzhoufm.com/podcast/62d5329cc606feab61b21815)
+* [开源之道Talking](https://www.ximalaya.com/album/32915040)
 
 ## 支持我们
 
