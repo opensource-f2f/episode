@@ -28,6 +28,7 @@
 | S01E12 | [小宇：一名测试工程师探索开源世界的经历](https://www.ximalaya.com/sound/535649165) | [DunyuSong](https://github.com/DunyuSong) | [Rick](https://github.com/LinuxSuRen) |
 | S01E13 | [MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞](https://www.xiaoyuzhoufm.com/episode/62ad34c6b515adbf1d3fc96a) | [ZMA](https://github.com/PROPELLER-ZMA) | [Rick](https://github.com/LinuxSuRen) |
 | S01E14 | [亮小猪：从开发到管理到开发者关系，他都经历了什么](https://www.xiaoyuzhoufm.com/episode/62be4fcc2f72f104a27b5dec) | [Shiny](https://github.com/shinyzhu) | [Rick](https://github.com/LinuxSuRen)、[Wey Gu](https://github.com/wey-gu)、[ZMA](https://github.com/PROPELLER-ZMA) |
+| S01E15 | [嵇斌：近 20 年的 IT 老兵作为开源新人的思考](https://www.ximalaya.com/sound/565725994) | [Ji Bin](https://github.com/matrixji) | [Rick](https://github.com/LinuxSuRen) |
 | S02E01 | [从商业到开源社区，聊聊 JuiceFS 的开发者招聘](https://www.ximalaya.com/sound/482662081) | [Rui Su](https://github.com/Suave) | [Rick](https://github.com/linuxsuren) |
 | S02E02 | [走进全员 Remote 公司 StreamNative，共建开源乐园](https://www.ximalaya.com/sound/506240866) | [王殿进](https://github.com/tuhaihe)、[黄小冰](https://github.com/huangxiaobing1987) | [Rick](https://github.com/linuxsuren) |
 | S03E01 | [iOS 开源项目 IceCream 与其作者蔡越的故事](https://www.ximalaya.com/sound/543173721) | [蔡越](https://github.com/caiyue1993) | [Rick](https://github.com/linuxsuren) |
@@ -59,7 +60,7 @@
 
 ## 致谢
 
-感谢以下 25 位嘉宾和主持人的支持：
+感谢以下 26 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
@@ -70,10 +71,11 @@
 * [DunyuSong](https://github.com/DunyuSong)
 * [Feynman Zhou](https://github.com/FeynmanZhou) (@cncf @cdfoundation ambassador, @microsoft PM )
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
-* [琚致远](https://github.com/juzhiyuan) (Member of TheASF · freeCodeCamp)
+* [琚致远](https://github.com/juzhiyuan) (Member of TheASF · Head of Global at API7.ai · freeCodeCamp)
 * [李梦](https://github.com/LiMeng00)
 * [Rick](https://github.com/LinuxSuRen) (程序员，业余开源布道者)
 * [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
+* [Ji Bin](https://github.com/matrixji) (Continue contributing even no longer have to introduce myself.)
 * [Mikey Wei](https://github.com/MikeyWei) (Just a errand)
 * [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
 * [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
