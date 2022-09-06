@@ -13,6 +13,7 @@
 |:---:|---|---|---|
 | 00 | [2022 元旦：四位主播居然都是“社恐”](https://www.ximalaya.com/sound/487941499) |  | [majinghe](https://github.com/majinghe)、[Wey Gu](https://github.com/wey-gu)、[Satoh Chen](https://github.com/Satohchen)、[Rick](https://github.com/LinuxSuRen) |
 | 01 | [开源许可证在国内等于格式合同](https://www.ximalaya.com/sound/538384632) | 振华 | [Mikey Wei](https://github.com/MikeyWei)、[Rick](https://github.com/LinuxSuRen) |
+| 02 | [开源布道师布的是什么道？](https://www.ximalaya.com/sound/567088038) | [LiJiansheng](https://github.com/lijiangsheng1) | [Mikey Wei](https://github.com/MikeyWei)、[Rick](https://github.com/LinuxSuRen) |
 | S01E00 | [开源面对面节目自述](https://www.ximalaya.com/sound/456334989) | [majinghe](https://github.com/majinghe)、[Rick](https://github.com/linuxsuren) | [Wey Gu](https://github.com/wey-gu) |
 | S01E01 | [开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞)](https://www.ximalaya.com/sound/465458545) | [FeynmanZhou](https://github.com/FeynmanZhou) | [majinghe](https://github.com/majinghe)、[Wey Gu](https://github.com/wey-gu)、[Rick](https://github.com/linuxsuren) |
 | S01E02 | [李自：参与开源社区的原动力探索——自我价值的实现和社会认可](https://www.ximalaya.com/sound/466962028) | clm-li | [Rick](https://github.com/LinuxSuRen) |
@@ -60,7 +61,7 @@
 
 ## 致谢
 
-感谢以下 26 位嘉宾和主持人的支持：
+感谢以下 27 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
@@ -72,6 +73,7 @@
 * [Feynman Zhou](https://github.com/FeynmanZhou) (@cncf @cdfoundation ambassador, @microsoft PM )
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
 * [琚致远](https://github.com/juzhiyuan) (Member of TheASF · Head of Global at API7.ai · freeCodeCamp)
+* [LiJiansheng](https://github.com/lijiangsheng1) (open source advocate.)
 * [李梦](https://github.com/LiMeng00)
 * [Rick](https://github.com/LinuxSuRen) (程序员，业余开源布道者)
 * [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
