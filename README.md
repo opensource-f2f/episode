@@ -85,10 +85,10 @@
 * [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j, Full stack developer.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
-* [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang @streamnative)
-* [Wey Gu](https://github.com/wey-gu) (Developer Advocate @vesoft-inc)
-* [Xiaoya](https://github.com/xiaoya-yaya) (Moving on)
-* [yihong](https://github.com/yihong0618) (The best is yet to come.)
+* tuhaihe
+* wey-gu
+* xiaoya-yaya
+* yihong0618
 * 五花肉
 * 振华
 * 李浩然
