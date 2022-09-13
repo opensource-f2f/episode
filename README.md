@@ -115,6 +115,7 @@
 * [vscode-gcores 是一个 VS-Code 插件](https://github.com/yihong0618/vscode-gcores)
 * [gaycore 是 Python 编写的客户端](https://github.com/yihong0618/gaycore)
 * [goplay 是 Golang 编写的客户端](https://github.com/LinuxSuRen/goplay)
+* [AntennaPod](https://antennapod.org) 是一个完全开放和开源的安卓平台播客播放器
 
 ## 以开源为主题的播客
 
