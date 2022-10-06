@@ -30,6 +30,7 @@
 | S01E13 | [MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞](https://www.xiaoyuzhoufm.com/episode/62ad34c6b515adbf1d3fc96a) | [ZMA](https://github.com/PROPELLER-ZMA) | [Rick](https://github.com/LinuxSuRen) |
 | S01E14 | [亮小猪：从开发到管理到开发者关系，他都经历了什么](https://www.xiaoyuzhoufm.com/episode/62be4fcc2f72f104a27b5dec) | [Shiny](https://github.com/shinyzhu) | [Rick](https://github.com/LinuxSuRen)、[Wey Gu](https://github.com/wey-gu)、[ZMA](https://github.com/PROPELLER-ZMA) |
 | S01E15 | [嵇斌：近 20 年的 IT 老兵作为开源新人的思考](https://www.ximalaya.com/sound/565725994) | [Ji Bin](https://github.com/matrixji) | [Rick](https://github.com/LinuxSuRen) |
+| S01E15 | [三咲智子：作为一名学生参与开源社区的故事](https://www.ximalaya.com/sound/565725994) | [三咲智子](https://github.com/sxzz) | [Rick](https://github.com/LinuxSuRen) |
 | S02E01 | [从商业到开源社区，聊聊 JuiceFS 的开发者招聘](https://www.ximalaya.com/sound/482662081) | [Rui Su](https://github.com/Suave) | [Rick](https://github.com/linuxsuren) |
 | S02E02 | [走进全员 Remote 公司 StreamNative，共建开源乐园](https://www.ximalaya.com/sound/506240866) | [王殿进](https://github.com/tuhaihe)、[黄小冰](https://github.com/huangxiaobing1987) | [Rick](https://github.com/linuxsuren) |
 | S03E01 | [iOS 开源项目 IceCream 与其作者蔡越的故事](https://www.ximalaya.com/sound/543173721) | [蔡越](https://github.com/caiyue1993) | [Rick](https://github.com/linuxsuren) |
@@ -61,7 +62,7 @@
 
 ## 致谢
 
-感谢以下 27 位嘉宾和主持人的支持：
+感谢以下 28 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
@@ -75,7 +76,8 @@
 * [琚致远](https://github.com/juzhiyuan) (Member of TheASF · Head of Global at API7.ai · freeCodeCamp)
 * [LiJiansheng](https://github.com/lijiangsheng1) (open source advocate.)
 * [李梦](https://github.com/LiMeng00)
-* [Rick](https://github.com/LinuxSuRen) (程序员，业余开源布道者)
+* [Rick](https://github.com/LinuxSuRen) (DevRel, a host of open-source Podcasts 
+@opensource-f2f)
 * [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
 * [Ji Bin](https://github.com/matrixji) (Continue contributing even no longer have to introduce myself.)
 * [Mikey Wei](https://github.com/MikeyWei) (Just a errand)
@@ -84,10 +86,11 @@
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
 * [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j, Full stack developer.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
+* [三咲智子](https://github.com/sxzz) (Student | Entrepreneur | Full Stack Developer | @element-plus @vueuse )
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
-* [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang @streamnative)
-* [Wey Gu](https://github.com/wey-gu) (Developer Advocate @vesoft-inc)
-* [Xiaoya](https://github.com/xiaoya-yaya) (Moving on)
+* tuhaihe
+* wey-gu
+* xiaoya-yaya
 * yihong0618
 * 五花肉
 * 振华
