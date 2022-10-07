@@ -1,8 +1,13 @@
 ---
 num: 'S02E02'
-title: '[走进全员 Remote 公司 StreamNative，共建开源乐园](https://www.ximalaya.com/sound/506240866)'
-guests: '[王殿进](https://github.com/tuhaihe)、[黄小冰](https://github.com/huangxiaobing1987)'
-hosts: '[Rick](https://github.com/linuxsuren)'
+date: 2022-02-28
+title: '走进全员 Remote 公司 StreamNative，共建开源乐园'
+link: https://www.ximalaya.com/sound/506240866
+guests:
+- huangxiaobing1987
+- tuhaihe
+hosts:
+- linuxsuren
 ---
 
 # S02E02 走进全员 Remote 公司 StreamNative，共建开源乐园

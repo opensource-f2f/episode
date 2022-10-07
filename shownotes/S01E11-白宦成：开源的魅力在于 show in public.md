@@ -1,8 +1,13 @@
 ---
 num: 'S01E11'
-title: '[白宦成：开源的魅力在于 show in public](https://www.ximalaya.com/sound/531364209)'
-guests: '[白宦成](https://github.com/bestony)'
-hosts: '[Mikey](https://github.com/MikeyWei)、[Rick](https://github.com/linuxsuren)'
+date: 2022-05-14
+title: '白宦成：开源的魅力在于 show in public'
+link: https://www.ximalaya.com/sound/531364209
+guests:
+- bestony
+hosts:
+- linuxsuren
+- MikeyWei
 ---
 
 # S01E11 白宦成：开源的魅力在于 show in public
