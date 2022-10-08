@@ -11,25 +11,25 @@
 
 | 序号 | 标题 | 嘉宾 | 主持人 |
 |:---:|---|---|---|
-| 00 | 2022 元旦：四位主播居然都是“社恐” ||majinghe<br/>wey-gu<br/>Satohchen<br/>linuxsuren<br/>|
-| 01 | 开源许可证在国内等于格式合同 |振华<br/>|MikeyWei<br/>linuxsuren<br/>|
-| 02 | 开源布道师布的是什么道？ |lijiangsheng1<br/>|MikeyWe<br/>linuxsuren<br/>|
-| S01E00 | 开源面对面节目自述 |majinghe<br/>linuxsuren<br/>|wey-gu<br/>|
-| S01E01 | 开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞) |FeynmanZhou<br/>|majinghe<br/>wey-gu<br/>linuxsuren<br/>|
-| S01E02 | 李自：参与开源社区的原动力探索——自我价值的实现和社会认可 |clm-li<br/>|linuxsuren<br/>|
-| S01E03 | 专访 YiHong，自学成为流行开源项目作者的点滴 |yihong0618<br/>|wey-gu<br/>|
-| S01E04 | Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使 |miyaliu666<br/>|linuxsuren<br/>majinghe<br/>|
-| S01E05 | 专访 琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区 |juzhiyuan<br/>|linuxsuren<br/>majinghe<br/>wey-gu<br/>|
-| S01E06 | 从民营书店进货员到开源创业工程师的故事 |TechQuery<br/>|linuxsuren<br/>|
-| S01E07 | 面对开放的大门，技术小白可以怎样开始参与开源 |LiMeng00<br/>|linuxsuren<br/>|
-| S01E08 | 小雅：我在读研期间参与 CHAOSS 开源社区的心路经历 |xiaoya-yaya<br/>|wey-gu<br/>majinghe<br/>linuxsuren<br/>|
-| S01E09 | 开源运营：运营能为开源带来什么 |五花肉<br/>Candicepan<br/>|MikeyWei<br/>juzhiyuan<br/>linuxsuren<br/>|
-| S01E10 | 李浩然：参与开源要遵循能量守恒 |李浩然<br/>|linuxsuren<br/>|
-| S01E11 | 白宦成：开源的魅力在于 show in public |bestony<br/>|linuxsuren<br/>MikeyWei<br/>|
-| S01E12 | 小宇：一名测试工程师探索开源世界的经历 |DunyuSong<br/>|linuxsuren<br/>|
-| S01E13 | MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞 |PROPELLER-ZMA<br/>|linuxsuren<br/>|
-| S01E14 | 亮小猪：从开发到管理到开发者关系，他都经历了什么 |shinyzhu<br/>|wey-gu<br/>PROPELLER-ZMA<br/>linuxsuren<br/>|
-| S01E15 | 嵇斌：近 20 年的 IT 老兵作为开源新人的思考 |matrixji<br/>|linuxsuren<br/>|
+| 00 | 2022 元旦：四位主播居然都是“社恐” ||[majinghe](https://github.com/majinghe)<br/>[Wey Gu](https://github.com/wey-gu)<br/>[Satoh Chen](https://github.com/Satohchen)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| 01 | 开源许可证在国内等于格式合同 |振华<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| 02 | 开源布道师布的是什么道？ |[LiJiansheng](https://github.com/lijiangsheng1)<br/>|MikeyWe<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E00 | 开源面对面节目自述 |[majinghe](https://github.com/majinghe)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>|
+| S01E01 | 开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞) |[Feynman Zhou](https://github.com/FeynmanZhou)<br/>|[majinghe](https://github.com/majinghe)<br/>[Wey Gu](https://github.com/wey-gu)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E02 | 李自：参与开源社区的原动力探索——自我价值的实现和社会认可 |clm-li<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E03 | 专访 YiHong，自学成为流行开源项目作者的点滴 |[yihong](https://github.com/yihong0618)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>|
+| S01E04 | Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使 |[miyaliu666](https://github.com/miyaliu666)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[majinghe](https://github.com/majinghe)<br/>|
+| S01E05 | 专访 琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区 |[琚致远](https://github.com/juzhiyuan)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[majinghe](https://github.com/majinghe)<br/>[Wey Gu](https://github.com/wey-gu)<br/>|
+| S01E06 | 从民营书店进货员到开源创业工程师的故事 |[South Drifted](https://github.com/TechQuery)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E07 | 面对开放的大门，技术小白可以怎样开始参与开源 |[李梦](https://github.com/LiMeng00)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E08 | 小雅：我在读研期间参与 CHAOSS 开源社区的心路经历 |[Xiaoya](https://github.com/xiaoya-yaya)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[majinghe](https://github.com/majinghe)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E09 | 开源运营：运营能为开源带来什么 |五花肉<br/>[CandicePan](https://github.com/Candicepan)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[琚致远](https://github.com/juzhiyuan)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E10 | 李浩然：参与开源要遵循能量守恒 |李浩然<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E11 | 白宦成：开源的魅力在于 show in public |[白宦成](https://github.com/bestony)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
+| S01E12 | 小宇：一名测试工程师探索开源世界的经历 |[DunyuSong](https://github.com/DunyuSong)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E13 | MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞 |[ZMA](https://github.com/PROPELLER-ZMA)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E14 | 亮小猪：从开发到管理到开发者关系，他都经历了什么 |[Shiny](https://github.com/shinyzhu)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[ZMA](https://github.com/PROPELLER-ZMA)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E15 | 嵇斌：近 20 年的 IT 老兵作为开源新人的思考 |[Ji Bin](https://github.com/matrixji)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E15 | 三咲智子：作为一名学生参与开源社区的故事 |sxzz<br/>|linuxsuren<br/>|
 | S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |Suave<br/>|linuxsuren<br/>|
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |huangxiaobing1987<br/>tuhaihe<br/>|linuxsuren<br/>|
