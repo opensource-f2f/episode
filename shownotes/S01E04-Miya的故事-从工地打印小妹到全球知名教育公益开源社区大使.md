@@ -1,8 +1,13 @@
 ---
 num: 'S01E04'
-title: '[Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使](https://www.ximalaya.com/sound/484328758)'
-guests: '[Miya](https://github.com/miyaliu666)'
-hosts: '[Rick](https://github.com/linuxsuren)、[majinghe](https://github.com/majinghe)'
+date: 2021-12-20
+title: 'Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使'
+link: https://www.ximalaya.com/sound/484328758
+guests:
+- miyaliu666
+hosts:
+- linuxsuren
+- majinghe
 ---
 
 # S01E04 Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使

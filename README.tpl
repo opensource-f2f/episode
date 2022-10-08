@@ -11,7 +11,7 @@
 | 序号 | 标题 | 嘉宾 | 主持人 |
 |:---:|---|---|---|
 {{- range $val := .}}
-| {{$val.num}} | {{$val.title}} | {{ghs $val.guests "、"}} | {{ghs $val.hosts "、"}} |
+| {{$val.num}} | {{$val.title}} | {{- range $item := $val.guests -}}{{- gh $item false -}}<br/>{{- end -}} | {{- range $item := $val.hosts -}}{{- gh $item false -}}<br/>{{- end -}} |
 {{- end}}
 
 ## 背景
@@ -43,10 +43,10 @@
 
 {{- $items := list "" -}}
 {{- range $val := . -}}
-{{- range $item := (splitList "、" $val.hosts) -}}
+{{- range $item := $val.hosts -}}
 {{- $items = append $items (lower (ghID $item)) -}}
 {{- end -}}
-{{- range $item := (splitList "、" $val.guests) -}}
+{{- range $item := $val.guests -}}
 {{- $items = append $items (lower (ghID $item)) -}}
 {{- end -}}
 {{- end -}}

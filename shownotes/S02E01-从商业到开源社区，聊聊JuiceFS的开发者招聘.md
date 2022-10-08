@@ -1,8 +1,12 @@
 ---
 num: 'S02E01'
-title: '[从商业到开源社区，聊聊 JuiceFS 的开发者招聘](https://www.ximalaya.com/sound/482662081)'
-guests: '[Rui Su](https://github.com/Suave)'
-hosts: '[Rick](https://github.com/linuxsuren)'
+date: 2021-12-15
+title: '从商业到开源社区，聊聊 JuiceFS 的开发者招聘'
+link: https://www.ximalaya.com/sound/482662081
+guests:
+- Suave
+hosts:
+- linuxsuren
 ---
 
 # S02E01 从商业到开源社区，聊聊 JuiceFS 的开发者招聘
