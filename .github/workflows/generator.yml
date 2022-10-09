@@ -12,7 +12,7 @@ jobs:
     if: "!contains(github.event.head_commit.message, 'ci skip')"
 
     steps:
-      - uses: actions/checkout@v3.0.2
+      - uses: actions/checkout@v3.1.0
       - name: Update archive
         uses: linuxsuren/yaml-readme@85c4c536bba5fa90030c4d22b62d719e46e3dfd7 #master
         env:
