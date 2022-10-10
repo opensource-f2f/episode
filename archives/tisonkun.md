@@ -1,4 +1,6 @@
+---
 github: tisonkun
+name: Tison
 audios:
 - link: https://www.xiaoyuzhoufm.com/episode/62aeaf7864420396f3cf70fd
   title: 'No. 22：为什么我们要提倡“上游优先”的开源协作模式'
@@ -11,3 +13,4 @@ audios:
 videos:
 - link: https://www.bilibili.com/video/BV1z34y1k7cf
   title: 'Why Contributors Stay And Grow'
+---
