@@ -2,7 +2,7 @@
 num: 'S01E17'
 date: 2022-10-10
 title: 'tison：一名 Community Builder 的自白'
-link: ''
+link: 'https://www.ximalaya.com/sound/576301464'
 guests:
 - tisonkun
 hosts:
