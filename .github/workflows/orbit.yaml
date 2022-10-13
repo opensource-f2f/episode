@@ -4,14 +4,14 @@ on:
   workflow_dispatch:
   push:
     branches:
-    - master
+      - master
 
 jobs:
   Record:
     runs-on: ubuntu-20.04
     steps:
-    - uses: actions/checkout@v3.1.0
-    - name: orbit
-      uses: linuxsuren/orbit-assistant@master
-      env:
-        ORBIT_TOKEN: ${{ secrets.ORBIT_TOKEN }}
+      - uses: actions/checkout@v3.1.0
+      - name: orbit
+        uses: linuxsuren/orbit-assistant@master
+        env:
+          ORBIT_TOKEN: ${{ secrets.ORBIT_TOKEN }}
