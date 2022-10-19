@@ -30,8 +30,8 @@
 | S01E13 | MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞 |[ZMA](https://github.com/PROPELLER-ZMA)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E14 | 亮小猪：从开发到管理到开发者关系，他都经历了什么 |[Shiny](https://github.com/shinyzhu)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[ZMA](https://github.com/PROPELLER-ZMA)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E15 | 嵇斌：近 20 年的 IT 老兵作为开源新人的思考 |[Ji Bin](https://github.com/matrixji)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
-| S01E16 | 三咲智子：作为一名学生参与开源社区的故事 |[三咲智子](https://github.com/sxzz)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
-| S01E17 | tison：一名 Community Builder 的自白 |[tison](https://github.com/tisonkun)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E16 | 三咲智子：作为一名学生参与开源社区的故事 |[三咲智子 (Kevin)](https://github.com/sxzz)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E17 | tison：一名 Community Builder 的自白 |[tison](https://github.com/tisonkun)<br/>|linuxsuren<br/>|
 | S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |Suave<br/>|linuxsuren<br/>|
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |huangxiaobing1987<br/>tuhaihe<br/>|linuxsuren<br/>|
 | S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |caiyue1993<br/>|linuxsuren<br/>|
@@ -120,6 +120,7 @@
 * [gaycore 是 Python 编写的客户端](https://github.com/yihong0618/gaycore)
 * [goplay 是 Golang 编写的客户端](https://github.com/LinuxSuRen/goplay)
 * [AntennaPod](https://antennapod.org) 是一个完全开放和开源的安卓平台播客播放器
+* [VLC](https://www.videolan.org/) 是一个开源的跨平台播放器，其 Internet 模块提供了播客服务，支持 RSS 订阅。
 
 ## 以开源为主题的播客
 
