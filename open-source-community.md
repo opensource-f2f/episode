@@ -33,7 +33,7 @@
 ## 建议参与录制的人员
 * 社区 Advocate
 * 项目维护者（maintainer）
-* 新加入的（contributor）
+* 新加入的 contributor
 * 资深用户（moderator）
 
 ## 写给主持人的话
