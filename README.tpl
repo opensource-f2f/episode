@@ -1,6 +1,6 @@
 #!yaml-readme -p shownotes/*.md --output README.md
 [![Twitter Follow](https://img.shields.io/twitter/follow/osf2f?style=social)](https://twitter.com/osf2f)
-[![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCV7Ibg1k_aMSEcDFgJvuvdg?style=social)](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg)
+[![Youtube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCV7Ibg1k_aMSEcDFgJvuvdg?style=social)](https://www.youtube.com/@osf2f)
 [![Rss](https://img.shields.io/badge/rss-F88900?style=flat&logo=rss&logoColor=white)](http://www.ximalaya.com/album/53320813.xml)
 
 # 开源面对面
