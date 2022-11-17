@@ -31,10 +31,10 @@
 | S01E14 | 亮小猪：从开发到管理到开发者关系，他都经历了什么 |[Shiny](https://github.com/shinyzhu)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[ZMA](https://github.com/PROPELLER-ZMA)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E15 | 嵇斌：近 20 年的 IT 老兵作为开源新人的思考 |[Ji Bin](https://github.com/matrixji)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E16 | 三咲智子：作为一名学生参与开源社区的故事 |[三咲智子 Kevin Deng](https://github.com/sxzz)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
-| S01E17 | tison：一名 Community Builder 的自白 |[tison](https://github.com/tisonkun)<br/>|linuxsuren<br/>|
-| S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |Suave<br/>|linuxsuren<br/>|
-| S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |huangxiaobing1987<br/>tuhaihe<br/>|linuxsuren<br/>|
-| S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |caiyue1993<br/>|linuxsuren<br/>|
+| S01E17 | tison：一名 Community Builder 的自白 |[tison](https://github.com/tisonkun)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |[Rui Su](https://github.com/Suave)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |[Xiaobing Huang](https://github.com/huangxiaobing1987)<br/>[Dianjin Wang](https://github.com/tuhaihe)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |[Yue](https://github.com/caiyue1993)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 
 ## 背景
 
@@ -67,33 +67,35 @@
 感谢以下 30 位嘉宾和主持人的支持：
 
 
-* bestony
-* caiyue1993
-* candicepan
+* [白宦成](https://github.com/bestony) (Ultimate Developer)
+* [Yue](https://github.com/caiyue1993) (Skateboarder/iOS Engineer/Life Hacker
+&#34;No is temporary, yes is forever.&#34;)
+* [CandicePan](https://github.com/Candicepan)
 * clm-li
-* dunyusong
-* feynmanzhou
-* huangxiaobing1987
-* juzhiyuan
-* lijiangsheng1
-* limeng00
-* linuxsuren
-* majinghe
-* matrixji
+* [DunyuSong](https://github.com/DunyuSong)
+* [Feynman Zhou](https://github.com/FeynmanZhou) (@cncf @cdfoundation ambassador, @microsoft PM )
+* [Xiaobing Huang](https://github.com/huangxiaobing1987)
+* [琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan) (Member of TheASF · Head of Global at API7.ai · freeCodeCamp)
+* [LiJiansheng](https://github.com/lijiangsheng1) (open source advocate.)
+* [李梦](https://github.com/LiMeng00)
+* [Rick](https://github.com/LinuxSuRen) (DevRel, a host of open-source Podcasts 
+@opensource-f2f)
+* [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
+* [Ji Bin](https://github.com/matrixji) (Continue contributing even no longer have to introduce myself.)
 * mikeywe
-* mikeywei
-* miyaliu666
-* propeller-zma
-* satohchen
-* shinyzhu
-* suave
-* sxzz
-* techquery
-* tisonkun
-* tuhaihe
-* wey-gu
-* xiaoya-yaya
-* yihong0618
+* [Mikey Wei](https://github.com/MikeyWei) (Host of @opensource-f2f . Just a errand.)
+* [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
+* [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
+* [Satoh Chen](https://github.com/Satohchen) (24hours person !)
+* [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j, Full stack developer.)
+* [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
+* [三咲智子 Kevin Deng](https://github.com/sxzz) (Student | Entrepreneur | Full Stack Developer | @vuejs @vueuse )
+* [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
+* [tison](https://github.com/tisonkun) (A modern wizard)
+* [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang @streamnative)
+* [Wey Gu](https://github.com/wey-gu) (Developer Advocate @vesoft-inc)
+* [Xiaoya](https://github.com/xiaoya-yaya) (Moving on)
+* [yihong](https://github.com/yihong0618) (The best is yet to come.)
 * 五花肉
 * 振华
 * 李浩然
