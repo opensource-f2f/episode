@@ -14,7 +14,7 @@ jobs:
     steps:
       - uses: actions/checkout@v3.1.0
       - name: Update archive
-        uses: linuxsuren/yaml-readme@2bc2f3fd594f0edca1722973694da02467fd5454 #master
+        uses: linuxsuren/yaml-readme@v0.0.15
         env:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
@@ -26,7 +26,7 @@ jobs:
           repo: episode
           push: false
       - name: Update readme
-        uses: linuxsuren/yaml-readme@2bc2f3fd594f0edca1722973694da02467fd5454 #master
+        uses: linuxsuren/yaml-readme@v0.0.15
         env:
           GH_TOKEN: ${{ secrets.GH_SECRETS }}
         with:
