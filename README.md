@@ -15,7 +15,7 @@
 |:---:|---|---|---|
 | 00 | 2022 元旦：四位主播居然都是“社恐” ||[majinghe](https://github.com/majinghe)<br/>[Wey Gu](https://github.com/wey-gu)<br/>[Satoh Chen](https://github.com/Satohchen)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | 01 | 开源许可证在国内等于格式合同 |振华<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
-| 02 | 开源布道师布的是什么道？ |[LiJiansheng](https://github.com/lijiangsheng1)<br/>|MikeyWe<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| 02 | 开源布道师布的是什么道？ |[LiJiansheng](https://github.com/lijiangsheng1)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E00 | 开源面对面节目自述 |[majinghe](https://github.com/majinghe)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>|
 | S01E01 | 开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞) |[Feynman Zhou](https://github.com/FeynmanZhou)<br/>|[majinghe](https://github.com/majinghe)<br/>[Wey Gu](https://github.com/wey-gu)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E02 | 李自：参与开源社区的原动力探索——自我价值的实现和社会认可 |clm-li<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -66,7 +66,7 @@
 
 ## 致谢
 
-感谢以下 30 位嘉宾和主持人的支持：
+感谢以下 29 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
@@ -84,7 +84,6 @@
 @opensource-f2f)
 * [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
 * [Ji Bin](https://github.com/matrixji) (Continue contributing even no longer have to introduce myself.)
-* mikeywe
 * [Mikey Wei](https://github.com/MikeyWei) (Host of @opensource-f2f . Just a errand.)
 * [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
 * [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
