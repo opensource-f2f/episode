@@ -37,6 +37,7 @@
 | S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |[Rui Su](https://github.com/Suave)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |[Xiaobing Huang](https://github.com/huangxiaobing1987)<br/>[Dianjin Wang](https://github.com/tuhaihe)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |[Yue](https://github.com/caiyue1993)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S03E02 | 走近一个面向未来的操作系统：FydeOS |[Alpha](https://github.com/fydeos-alpha)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 
 ## 背景
 
@@ -66,7 +67,7 @@
 
 ## 致谢
 
-感谢以下 29 位嘉宾和主持人的支持：
+感谢以下 30 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
@@ -76,6 +77,7 @@
 * clm-li
 * [DunyuSong](https://github.com/DunyuSong)
 * [Feynman Zhou](https://github.com/FeynmanZhou) (@cncf @cdfoundation ambassador, @microsoft PM )
+* [Alpha](https://github.com/fydeos-alpha) (Support dude for FydeOS)
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
 * [琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan) (Member of TheASF · Head of Global at API7.ai · freeCodeCamp)
 * [LiJiansheng](https://github.com/lijiangsheng1) (open source advocate.)
