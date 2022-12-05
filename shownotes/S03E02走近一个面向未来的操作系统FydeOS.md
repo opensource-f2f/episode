@@ -2,7 +2,7 @@
 num: 'S03E02'
 date: 2022-12-05
 title: '走近一个面向未来的操作系统：FydeOS'
-link: https://www.ximalaya.com/sound/
+link: https://www.ximalaya.com/sound/594051947
 guests:
 - fydeos-alpha
 hosts:
