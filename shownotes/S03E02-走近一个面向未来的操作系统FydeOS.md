@@ -68,4 +68,5 @@ hosts:
  - FydeOS 官网：https://fydeos.com
  - openFyde 官网：https://openfyde.cn
  - Fydetab Duo 官网：http://fydetabduo.cn
+ - FydeOS 玩 Steam 游戏：https://www.youtube.com/watch?v=QrqVkUaFYBw
  - Fydetab Duo 众筹：https://igg.me/at/fydetabduo
