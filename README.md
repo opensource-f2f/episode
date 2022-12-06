@@ -57,10 +57,10 @@
 
 为了便于观看该访谈的受众相对完整、系统的了解到开源知识，规划如下几个系列：
 
-* [个人成长系列](personal-stories.md)
-* [开源岗位系列](open-source-positions.md)
-* [开源项目系列](open-source-projects.md)
-* [开源社区系列](open-source-community.md)
+* [S01:个人成长系列](personal-stories.md)
+* [S02:开源岗位系列](open-source-positions.md)
+* [S03:开源项目系列](open-source-projects.md)
+* [S04:开源社区系列](open-source-community.md)
 * [番外篇](other-topics.md)
 
 如果你与我们的想法不谋而合，欢迎[加入](member.md)！如果你愿意讲述你的开源故事，欢迎自荐或者推荐周围的朋友。
