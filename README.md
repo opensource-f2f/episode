@@ -38,6 +38,7 @@
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |[Xiaobing Huang](https://github.com/huangxiaobing1987)<br/>[Dianjin Wang](https://github.com/tuhaihe)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |[Yue](https://github.com/caiyue1993)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E02 | 走近一个面向未来的操作系统：FydeOS |[Alpha](https://github.com/fydeos-alpha)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| S03E03 | Jina AI 赋能所有开发者，让超酷的多模态 AI 想法实现落地 |[Nan Wang](https://github.com/nan-wang)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 
 ## 背景
 
@@ -67,7 +68,7 @@
 
 ## 致谢
 
-感谢以下 30 位嘉宾和主持人的支持：
+感谢以下 31 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
@@ -88,6 +89,7 @@
 * [Ji Bin](https://github.com/matrixji) (Continue contributing even no longer have to introduce myself.)
 * [Mikey Wei](https://github.com/MikeyWei) (Host of @opensource-f2f . Just a errand.)
 * [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
+* [Nan Wang](https://github.com/nan-wang) (Co-founder &amp; CTO | Jina AI)
 * [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
 * [Shiny](https://github.com/shinyzhu) (Developer Advocate @neo4j, Full stack developer.)
