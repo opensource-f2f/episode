@@ -2,7 +2,7 @@
 num: 'S03E03'
 date: 2022-12-07
 title: 'Jina AI 赋能所有开发者，让超酷的多模态 AI 想法实现落地'
-link: 
+link: https://www.ximalaya.com/sound/594676514
 guests:
 - nan-wang
 hosts:
