@@ -136,7 +136,7 @@
   * RSS地址：https://pythonhunter.org/feed/audio.xml
   * 播客网址：https://pythonhunter.org/
 
-* 开源之道Talking
+* 开源之道 Talking
   * RSS地址：http://www.ximalaya.com/album/32915040.xml
   * 播客网址：https://opensourceway.community/
 
@@ -144,7 +144,7 @@
   * RSS地址：https://www.ximalaya.com/album/55050616.xml
   * 播客网址：https://www.opentekr.com/
 
-* ALC北京
+* ALC Beijing
   * RSS地址：https://www.ximalaya.com/album/37853515.xml
   * 播客网址：https://alc-beijing.github.io/alc-site/
 
