@@ -88,11 +88,69 @@
 
 ## 以开源为主题的播客
 
-* [ALC Beijing Podcast](https://www.ximalaya.com/keji/37853515/)
-* [OpenTEKr 大话开源](https://www.ximalaya.com/album/55050616)
-* [开源社·陪你看开源](https://www.xiaoyuzhoufm.com/podcast/6286388483ddae2d9e72a79d)
-* [开源雨林—大咖访谈](https://www.xiaoyuzhoufm.com/podcast/62d5329cc606feab61b21815)
-* [开源之道Talking](https://www.ximalaya.com/album/32915040)
+* Command Line Heroes
+  * RSS地址：https://feeds.pacific-content.com/commandlineheroes
+  * 播客网址：https://www.redhat.com/en/command-line-heroes
+
+* CoRecursive: Coding Stories
+  * RSS地址：https://corecursive.libsyn.com/feed
+  * 播客网址：http://corecursive.com
+
+* Destination Linux
+  * RSS地址：https://destinationlinux.org/feed/mp3
+  * 播客网址：https://destinationlinux.org
+
+* Eye On A.I.
+  * RSS地址：https://aneyeonai.libsyn.com/rss
+  * 播客网址：http://www.eye-on.ai
+
+* 开源的故事
+  * RSS地址：https://www.opensourcestories.org/stories/index.xml
+  * 播客网址：https://www.opensourcestories.org/
+
+* postmarketOS Podcast
+  * RSS地址：https://cast.postmarketos.org/feed.rss
+  * 播客网址：https://cast.postmarketos.org/
+
+* Rustacean Station
+  * RSS地址：https://rustacean-station.org/podcast.rss
+  * 播客网址：https://rustacean-station.org
+
+* Talk Python To Me
+  * RSS地址：https://talkpython.fm/episodes/rss
+  * 播客网址：https://talkpython.fm/
+
+* 开源背后的故事
+  * RSS地址：https://feeds.captivate.fm/untold-stories-of-open-source/
+  * 播客网址：https://untold-stories-of-open-source.captivate.fm
+
+* NebulaGraph 星球
+  * RSS地址：http://www.ximalaya.com/album/54212026.xml
+  * 播客网址：https://www.nebula-graph.com.cn/
+
+* 开源社·陪你看开源
+  * RSS地址：https://feed.xyzfm.space/8byhjgj7jhly
+  * 播客网址：https://kaiyuanshe.cn/
+
+* 捕蛇者说
+  * RSS地址：https://pythonhunter.org/feed/audio.xml
+  * 播客网址：https://pythonhunter.org/
+
+* 开源之道 Talking
+  * RSS地址：http://www.ximalaya.com/album/32915040.xml
+  * 播客网址：https://opensourceway.community/
+
+* 大话开源
+  * RSS地址：https://www.ximalaya.com/album/55050616.xml
+  * 播客网址：https://www.opentekr.com/
+
+* ALC Beijing
+  * RSS地址：https://www.ximalaya.com/album/37853515.xml
+  * 播客网址：https://alc-beijing.github.io/alc-site/
+
+* 开源雨林——大咖访谈
+  * RSS地址：https://www.xiaoyuzhoufm.com/podcast/62d5329cc606feab61b21815
+  * 播客网址：https://www.osrainforest.org/
 
 ## 支持我们
 
