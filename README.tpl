@@ -152,6 +152,12 @@
   * RSS地址：https://www.xiaoyuzhoufm.com/podcast/62d5329cc606feab61b21815
   * 播客网址：https://www.osrainforest.org/
 
+## 制作相关工具
+
+* [格式转换](https://github.com/LinuxSuRen/go-ffmpeg)
+* [音频剪辑](https://github.com/audacity/audacity)
+* [时间线处理](https://linuxsuren.github.io/audacity-label-plugin/)
+
 ## 支持我们
 
 - [加入我们](member.md)
