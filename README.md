@@ -34,6 +34,7 @@
 | S01E15 | 嵇斌：近 20 年的 IT 老兵作为开源新人的思考 |[Ji Bin](https://github.com/matrixji)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E16 | 三咲智子：作为一名学生参与开源社区的故事 |[三咲智子 Kevin Deng](https://github.com/sxzz)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E17 | tison：一名 Community Builder 的自白 |[tison](https://github.com/tisonkun)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E18 | Daniel：一名“舞台”下的开源布道者 |[Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |[Rui Su](https://github.com/Suave)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |[Xiaobing Huang](https://github.com/huangxiaobing1987)<br/>[Dianjin Wang](https://github.com/tuhaihe)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |[Yue](https://github.com/caiyue1993)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -68,7 +69,7 @@
 
 ## 致谢
 
-感谢以下 31 位嘉宾和主持人的支持：
+感谢以下 32 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
@@ -76,6 +77,7 @@
 &#34;No is temporary, yes is forever.&#34;)
 * [CandicePan](https://github.com/Candicepan)
 * clm-li
+* [Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)
 * [DunyuSong](https://github.com/DunyuSong)
 * [Feynman Zhou](https://github.com/FeynmanZhou) (@cncf @cdfoundation ambassador, @microsoft PM )
 * [Alpha](https://github.com/fydeos-alpha) (Support guy for FydeOS)
@@ -195,6 +197,12 @@
 * 开源雨林——大咖访谈
   * RSS地址：https://www.xiaoyuzhoufm.com/podcast/62d5329cc606feab61b21815
   * 播客网址：https://www.osrainforest.org/
+
+## 制作相关工具
+
+* [格式转换](https://github.com/LinuxSuRen/go-ffmpeg)
+* [音频剪辑](https://github.com/audacity/audacity)
+* [时间线处理](https://linuxsuren.github.io/audacity-label-plugin/)
 
 ## 支持我们
 
