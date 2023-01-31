@@ -101,7 +101,7 @@
 * [tison](https://github.com/tisonkun) (A modern wizard)
 * [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang @streamnative)
 * [Wey Gu](https://github.com/wey-gu) (Developer Advocate @vesoft-inc)
-* [Xiaoya](https://github.com/xiaoya-yaya) (@X-lab2017 Member; @chaoss Asia Pacific Leader; @todogroup Member; @Alibaba OSPOer.)
+* [Xiaoya](https://github.com/xiaoya-yaya) (@X-lab2017 Member; @chaoss Asia Pacific Leader; @todogroup Member.)
 * [yihong](https://github.com/yihong0618) (The best is yet to come.)
 * 五花肉
 * 振华
