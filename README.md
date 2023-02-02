@@ -94,7 +94,7 @@
 * [Nan Wang](https://github.com/nan-wang) (Co-founder &amp; CTO | Jina AI)
 * [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
-* [Shiny](https://github.com/shinyzhu) (Developer Advocate, Full stack developer.)
+* [Shiny](https://github.com/shinyzhu) (Developer &#43; Advocate)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
 * [三咲智子 Kevin Deng](https://github.com/sxzz) (Student | Freelancer | Full Stack Developer | @vuejs @vueuse @elk-zone )
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
