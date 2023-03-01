@@ -67,11 +67,11 @@
 |---|---|
 | [StreamNative](https://streamnative.io/) | 北京市东城区法华寺街91号，德必WE国际文化创意中心 |
 | [OpenTEKr](https://www.opentekr.com) | 上海市静安区愚园东路28号东海广场3号楼8楼 |
-| [Monster Works（怪物工场）](http://www.gamesound.com.cn) | 北京市朝阳区北苑东路中国铁建广场E座1011 |
+| [Monster Works](http://www.gamesound.com.cn) | 北京市朝阳区北苑东路中国铁建广场E座1011 |
 
 ## 可访问的平台
 
-* [喜马拉雅](https://www.ximalaya.com/album/53320813)
+* [主站 RSS](https://feeds.osf2f.net/osf2f.xml)
 * [哔哩哔哩](https://space.bilibili.com/433584098/channel/seriesdetail?sid=809206)
 * [YouTube](https://www.youtube.com/channel/UCV7Ibg1k_aMSEcDFgJvuvdg)
 * [小宇宙](https://www.xiaoyuzhoufm.com/podcast/617ab62d9a75e8810fc37b99)
