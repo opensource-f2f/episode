@@ -2,7 +2,7 @@
 num: 'S01E18'
 date: 2023-01-18
 title: 'Daniel：一名“舞台”下的开源布道者'
-link: 'https://www.ximalaya.com/sound/605149861'
+link: https://audio.xmcdn.com/storages/1c26-audiofreehighqps/FF/B0/GKwRIUEHnAeeAlbIaQHtw90U.m4a
 guests:
 - danielfbm
 hosts:

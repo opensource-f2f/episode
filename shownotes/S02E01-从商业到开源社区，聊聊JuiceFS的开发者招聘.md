@@ -2,7 +2,7 @@
 num: 'S02E01'
 date: 2021-12-15
 title: '从商业到开源社区，聊聊 JuiceFS 的开发者招聘'
-link: https://www.ximalaya.com/sound/482662081
+link: https://audio.xmcdn.com/storages/bdc0-audiofreehighqps/81/82/GKwRIW4FjycIAkcMwQECsiEI.m4a
 guests:
 - Suave
 hosts:

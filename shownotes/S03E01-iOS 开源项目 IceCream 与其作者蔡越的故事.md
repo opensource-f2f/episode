@@ -2,7 +2,7 @@
 num: 'S03E01'
 date: 2022-06-14
 title: 'iOS 开源项目 IceCream 与其作者蔡越的故事'
-link: https://www.ximalaya.com/sound/543173721
+link: https://audio.xmcdn.com/storages/0251-audiofreehighqps/A9/49/GKwRIJEGfjXfAk1DwAFq5SuH.m4a
 guests:
 - caiyue1993
 hosts:

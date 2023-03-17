@@ -2,7 +2,7 @@
 num: 'S01E01'
 date: 2021-10-24
 title: '开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞)'
-link: https://www.ximalaya.com/sound/465458545
+link: https://audio.xmcdn.com/storages/2289-audiofreehighqps/E4/9F/CKwRIJEFSy9pAYAxDgDv91Mb.m4a
 guests:
 - FeynmanZhou
 hosts:
