@@ -2,7 +2,7 @@
 num: 'S01E03'
 date: 2021-11-20
 title: '专访 YiHong，自学成为流行开源项目作者的点滴'
-link: https://www.ximalaya.com/sound/474215643
+link: https://audio.xmcdn.com/storages/bf14-audiofreehighqps/8E/0F/GKwRIJEFbk-gAWnCAwD5TmHK.m4a
 guests:
 - yihong0618
 hosts:

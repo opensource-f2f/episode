@@ -2,7 +2,7 @@
 num: 'S01E13'
 date: 2022-06-18
 title: 'MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞'
-link: https://www.xiaoyuzhoufm.com/episode/62ad34c6b515adbf1d3fc96a
+link: https://audio.xmcdn.com/storages/7f29-audiofreehighqps/BF/D5/GKwRIDoGgEC5AfJs7QFr0bOx.m4a
 guests:
 - PROPELLER-ZMA
 hosts:

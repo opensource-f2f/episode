@@ -2,7 +2,7 @@
 num: 'S01E11'
 date: 2022-05-14
 title: '白宦成：开源的魅力在于 show in public'
-link: https://www.ximalaya.com/sound/531364209
+link: https://audio.xmcdn.com/storages/882c-audiofreehighqps/52/FA/GKwRINsGU36cAiwi3AFRhx3i.m4a
 guests:
 - bestony
 hosts:

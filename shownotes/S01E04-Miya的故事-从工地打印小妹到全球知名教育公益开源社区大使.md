@@ -2,7 +2,7 @@
 num: 'S01E04'
 date: 2021-12-20
 title: 'Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使'
-link: https://www.ximalaya.com/sound/484328758
+link: https://audio.xmcdn.com/storages/1fc2-audiofreehighqps/3B/57/GKwRIJEFla7kAfKF5QEEmeIk.m4a
 guests:
 - miyaliu666
 hosts:

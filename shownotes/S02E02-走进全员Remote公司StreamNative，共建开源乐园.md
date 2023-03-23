@@ -2,7 +2,7 @@
 num: 'S02E02'
 date: 2022-02-28
 title: '走进全员 Remote 公司 StreamNative，共建开源乐园'
-link: https://www.ximalaya.com/sound/506240866
+link: https://audio.xmcdn.com/storages/bf17-audiofreehighqps/0F/A8/GKwRIaIF9zidACAAAAEix6h6.mp3
 guests:
 - huangxiaobing1987
 - tuhaihe
