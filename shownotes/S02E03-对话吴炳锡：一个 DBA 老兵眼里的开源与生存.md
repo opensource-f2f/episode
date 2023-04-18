@@ -1,6 +1,6 @@
 ---
-num: 'S02E03'
-date: 2022-04-17
+num: 'S01E19'
+date: 2023-04-17
 title: '对话吴炳锡：一个 DBA 老兵眼里的开源与生存'
 link: https://cdn2.wavpub.com/hosting.wavpub.cn/wp-content/uploads/sites/18/2023/04/20230319wubx.mp3
 guests:
@@ -9,7 +9,6 @@ guests:
 hosts:
 - wey-gu
 - MikeyWei
-
 ---
 
 # S02E03 对话吴炳锡：一个 DBA 老兵眼里的开源与生存
