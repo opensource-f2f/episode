@@ -35,9 +35,9 @@
 | S01E16 | 三咲智子：作为一名学生参与开源社区的故事 |[三咲智子 Kevin Deng](https://github.com/sxzz)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E17 | tison：一名 Community Builder 的自白 |[tison](https://github.com/tisonkun)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E18 | Daniel：一名“舞台”下的开源布道者 |[Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
+| S01E19 | 对话吴炳锡：一个 DBA 老兵眼里的开源与生存 |[wubx](https://github.com/wubx)<br/>[Sarah Lau](https://github.com/sarahlau0415)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |[Rui Su](https://github.com/Suave)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |[Xiaobing Huang](https://github.com/huangxiaobing1987)<br/>[Dianjin Wang](https://github.com/tuhaihe)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
-| S01E19 | 对话吴炳锡：一个 DBA 老兵眼里的开源与生存 |[wubx](https://github.com/wubx)<br/>[Sarah Lau](https://github.com/sarahlau0415)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |[Yue](https://github.com/caiyue1993)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E02 | 走近一个面向未来的操作系统：FydeOS |[Alpha](https://github.com/fydeos-alpha)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E03 | Jina AI 赋能所有开发者，让超酷的多模态 AI 想法实现落地 |[Nan Wang](https://github.com/nan-wang)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -98,7 +98,7 @@
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
 * [Shiny](https://github.com/shinyzhu) (Full Stack Developer, DevRel, MCT, ex-MVP.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
-* [三咲智子 Kevin Deng](https://github.com/sxzz) (Student • Freelancer • Full Stack Developer • @vuejs @vueuse @elk-zone )
+* [三咲智子 Kevin Deng](https://github.com/sxzz) (Student • @vuejs @vueuse @elk-zone )
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
 * [tison](https://github.com/tisonkun) (A modern wizard)
 * [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang)
