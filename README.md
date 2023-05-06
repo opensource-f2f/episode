@@ -36,6 +36,7 @@
 | S01E17 | tison：一名 Community Builder 的自白 |[tison](https://github.com/tisonkun)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E18 | Daniel：一名“舞台”下的开源布道者 |[Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E19 | 对话吴炳锡：一个 DBA 老兵眼里的开源与生存 |[wubx](https://github.com/wubx)<br/>[Sarah Lau](https://github.com/sarahlau0415)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
+| S01E20 | 开源之夏学生专访-王嘉树 |[Vector7 ](https://github.com/wjsvec)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |[Rui Su](https://github.com/Suave)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |[Xiaobing Huang](https://github.com/huangxiaobing1987)<br/>[Dianjin Wang](https://github.com/tuhaihe)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |[Yue](https://github.com/caiyue1993)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -70,7 +71,7 @@
 
 ## 致谢
 
-感谢以下 34 位嘉宾和主持人的支持：
+感谢以下 35 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
@@ -103,6 +104,7 @@
 * [tison](https://github.com/tisonkun) (A modern wizard)
 * [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang)
 * [Wey Gu](https://github.com/wey-gu) (Developer Advocate @vesoft-inc)
+* [Vector7 ](https://github.com/wjsvec)
 * [wubx](https://github.com/wubx) (data · compute · storage · cloud Work @datafuselabs )
 * [Xiaoya](https://github.com/xiaoya-yaya) (@X-lab2017 Member; @chaoss Asia Pacific Leader; @todogroup Member.)
 * [yihong](https://github.com/yihong0618) (The best is yet to come.)
