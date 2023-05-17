@@ -99,7 +99,7 @@
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
 * [Shiny](https://github.com/shinyzhu) (Full Stack Developer, DevRel, MCT, ex-MVP.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
-* [三咲智子 Kevin Deng](https://github.com/sxzz) (Student • @vuejs @vueuse @elk-zone )
+* [三咲智子 Kevin Deng](https://github.com/sxzz) (Student • @vuejs @vueuse @elk-zone)
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
 * [tison](https://github.com/tisonkun) (A modern wizard)
 * [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang)
