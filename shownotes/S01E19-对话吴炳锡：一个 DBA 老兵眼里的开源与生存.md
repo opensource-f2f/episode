@@ -37,6 +37,7 @@ hosts:
 * [DataBend](https://github.com/datafuselabs/databend)
 * [开源软件指南](https://opensource.guide/zh-hans/)
 * [3306π社区](https://github.com/3306pai)
+* [织梦 CMS 创始人因病逝世](https://mp.weixin.qq.com/s/bwLMcwe1ISAO202463YDjw)
 
 
 # 关于节目
