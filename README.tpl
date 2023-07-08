@@ -93,6 +93,10 @@
   * RSS地址：https://feeds.pacific-content.com/commandlineheroes
   * 播客网址：https://www.redhat.com/en/command-line-heroes
 
+* ThunderCast: Mozilla Thunderbird 官方播客
+  * RSS地址：https://feeds.transistor.fm/thundercast
+  * 播客网址：https://blog.thunderbird.net/
+
 * CoRecursive: Coding Stories
   * RSS地址：https://corecursive.libsyn.com/feed
   * 播客网址：http://corecursive.com
