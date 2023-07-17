@@ -81,7 +81,7 @@
 * [%!s(&lt;nil&gt;)](https://github.com/CLM-Li)
 * [Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)
 * [DunyuSong](https://github.com/DunyuSong)
-* [Feynman Zhou](https://github.com/FeynmanZhou) (@cncf @cdfoundation ambassador, @microsoft PM )
+* [Feynman Zhou](https://github.com/FeynmanZhou) (CNCF ambassador, Microsoft PM )
 * [Alpha](https://github.com/fydeos-alpha) (Support guy for FydeOS)
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
 * [琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan) (Member of TheASF · Head of Global at API7.ai · freeCodeCamp)
@@ -97,13 +97,13 @@
 * [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
 * [Sarah Lau](https://github.com/sarahlau0415) (I like movies, dogs, and developers.)
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
-* [Shiny](https://github.com/shinyzhu) (Full Stack Developer, DevRel, MCT, ex-MVP.)
+* [Shiny](https://github.com/shinyzhu) (Builder &amp; Enabler, DevRel, MCT, ex-MVP.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
 * [三咲智子 Kevin Deng](https://github.com/sxzz) (Student • @vuejs @vueuse @elk-zone)
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
-* [tison](https://github.com/tisonkun) (A modern wizard)
-* [Dianjin Wang](https://github.com/tuhaihe) (Dianjin Wang)
-* [Wey Gu](https://github.com/wey-gu) (Developer Advocate @vesoft-inc)
+* [tison](https://github.com/tisonkun) (Do not take it serious. @streamnative )
+* [Dianjin Wang](https://github.com/tuhaihe) (Community Manager for Cloudberry Database @ HashData.)
+* [Wey Gu](https://github.com/wey-gu) (Chief Evangelist @vesoft-inc)
 * [Vector7 ](https://github.com/wjsvec)
 * [wubx](https://github.com/wubx) (data · compute · storage · cloud Work @datafuselabs )
 * [Xiaoya](https://github.com/xiaoya-yaya) (@X-lab2017 Member; @chaoss Asia Pacific Leader; @todogroup Member.)
@@ -143,6 +143,10 @@
 * Command Line Heroes
   * RSS地址：https://feeds.pacific-content.com/commandlineheroes
   * 播客网址：https://www.redhat.com/en/command-line-heroes
+
+* ThunderCast: Mozilla Thunderbird 官方播客
+  * RSS地址：https://feeds.transistor.fm/thundercast
+  * 播客网址：https://blog.thunderbird.net/
 
 * CoRecursive: Coding Stories
   * RSS地址：https://corecursive.libsyn.com/feed
