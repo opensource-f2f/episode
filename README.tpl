@@ -97,6 +97,11 @@
   * RSS地址：https://feeds.transistor.fm/thundercast
   * 播客网址：https://blog.thunderbird.net/
 
+* freeCodeCamp 官方播客
+  * RSS地址：https://freecodecamp.libsyn.com/rss
+  * 中文版地址：https://feeds.transistor.fm/freecodecamp-podcast-in-chinese
+  * 播客网址：https://www.freecodecamp.org
+
 * CoRecursive: Coding Stories
   * RSS地址：https://corecursive.libsyn.com/feed
   * 播客网址：http://corecursive.com
