@@ -37,6 +37,7 @@
 | S01E18 | Daniel：一名“舞台”下的开源布道者 |[Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E19 | 对话吴炳锡：一个 DBA 老兵眼里的开源与生存 |[wubx](https://github.com/wubx)<br/>[Sarah Lau](https://github.com/sarahlau0415)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E20 | 开源之夏学生专访-王嘉树 |[Vector7 ](https://github.com/wjsvec)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
+| S01E21 | 开源、个人品牌和 DevRel：Richard 的故事和建议 |[Richard Moreland](https://github.com/richard)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Vector7 ](https://github.com/wjsvec)<br/>|
 | S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |[Rui Su](https://github.com/Suave)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |[Xiaobing Huang](https://github.com/huangxiaobing1987)<br/>[Dianjin Wang](https://github.com/tuhaihe)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |[Yue](https://github.com/caiyue1993)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -71,7 +72,7 @@
 
 ## 致谢
 
-感谢以下 35 位嘉宾和主持人的支持：
+感谢以下 36 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
@@ -95,17 +96,18 @@
 * [miyaliu666](https://github.com/miyaliu666) (A lifelong learner, a contributor)
 * [Nan Wang](https://github.com/nan-wang) (Co-founder &amp; CTO | Jina AI)
 * [ZMA](https://github.com/PROPELLER-ZMA) (Open Tech Advocate | Shaping a Better Connected Innovation Community I Story Hunter &amp; Crafter)
+* [Richard Moreland](https://github.com/richard)
 * [Sarah Lau](https://github.com/sarahlau0415) (I like movies, dogs, and developers.)
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
 * [Shiny](https://github.com/shinyzhu) (Builder &amp; Enabler, DevRel, MCT, ex-MVP.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
-* [三咲智子 Kevin Deng](https://github.com/sxzz) (Student • @vuejs @vueuse @elk-zone)
+* [三咲智子 Kevin Deng](https://github.com/sxzz) (Student • @vuejs @vitejs @vueuse @vue-macros @elk-zone @unplugin )
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
-* [tison](https://github.com/tisonkun) (Do not take it serious. @streamnative )
-* [Dianjin Wang](https://github.com/tuhaihe) (Community Manager for Cloudberry Database @ HashData.)
+* [tison](https://github.com/tisonkun) (Do not take it serious.)
+* [Dianjin Wang](https://github.com/tuhaihe) (Community Manager for Cloudberry Database @ HashData. ASF Contributor, ALC Beijing Member.)
 * [Wey Gu](https://github.com/wey-gu) (Chief Evangelist @vesoft-inc)
 * [Vector7 ](https://github.com/wjsvec)
-* [wubx](https://github.com/wubx) (data · compute · storage · cloud Work @datafuselabs )
+* [wubx](https://github.com/wubx) (data · compute · storage · cloud Work @datafuselabs  )
 * [Xiaoya](https://github.com/xiaoya-yaya) (@X-lab2017 Member; @chaoss Asia Pacific Leader; @todogroup Member.)
 * [yihong](https://github.com/yihong0618) (The best is yet to come.)
 * 五花肉
