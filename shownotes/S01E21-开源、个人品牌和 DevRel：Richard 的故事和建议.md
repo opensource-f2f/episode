@@ -1,8 +1,8 @@
 ---
-num: 'S01E20'
-date: 2023-05-05
+num: 'S01E21'
+date: 2023-09-08
 title: '开源、个人品牌和 DevRel：Richard 的故事和建议'
-link: ''
+link: 'https://cdn2.wavpub.com/hosting.wavpub.cn/wp-content/uploads/sites/18/2023/09/osf2f-s01e21-richard.mp3'
 guests:
 - Richard
 hosts:
