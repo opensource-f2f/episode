@@ -10,7 +10,7 @@ jobs:
   Record:
     runs-on: ubuntu-20.04
     steps:
-      - uses: actions/checkout@v3.5.0
+      - uses: actions/checkout@v3.5.3
       - name: orbit
         uses: linuxsuren/orbit-assistant@master
         env:
