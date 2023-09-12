@@ -101,7 +101,7 @@
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
 * [Shiny](https://github.com/shinyzhu) (Builder &amp; Enabler, DevRel, MCT, ex-MVP.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
-* [三咲智子 Kevin Deng](https://github.com/sxzz) (Student • @vuejs @vitejs @vueuse @vue-macros @elk-zone @unplugin )
+* [三咲智子 Kevin Deng](https://github.com/sxzz) (@vuejs @vitejs @vueuse @vue-macros @elk-zone @unplugin )
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
 * [tison](https://github.com/tisonkun) (Do not take it serious.)
 * [Dianjin Wang](https://github.com/tuhaihe) (Community Manager for Cloudberry Database @ HashData. ASF Contributor, ALC Beijing Member.)
