@@ -39,7 +39,6 @@
 | S01E19 | 对话吴炳锡：一个 DBA 老兵眼里的开源与生存 |[wubx](https://github.com/wubx)<br/>[Sarah Lau](https://github.com/sarahlau0415)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E20 | 开源之夏学生专访-王嘉树 |[Vector7 ](https://github.com/wjsvec)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E21 | 开源、个人品牌和 DevRel：Richard 的故事和建议 |[Richard Moreland](https://github.com/richard)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Vector7 ](https://github.com/wjsvec)<br/>|
-| S01E22 | 张跃骎：落选后是如何成为 SkyWalking Committer 的 |[yswdqz](https://github.com/yswdqz)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Vector7 ](https://github.com/wjsvec)<br/>|
 | S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |[Rui Su](https://github.com/Suave)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |[Xiaobing Huang](https://github.com/huangxiaobing1987)<br/>[Dianjin Wang](https://github.com/tuhaihe)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |[Yue](https://github.com/caiyue1993)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -74,7 +73,7 @@
 
 ## 致谢
 
-感谢以下 38 位嘉宾和主持人的支持：
+感谢以下 37 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
@@ -113,7 +112,6 @@
 * [wubx](https://github.com/wubx) (data · compute · storage · cloud Work @datafuselabs  )
 * [Xiaoya](https://github.com/xiaoya-yaya) (@X-lab2017 Member; @chaoss Asia Pacific Leader; @todogroup Member.)
 * [yihong](https://github.com/yihong0618) (The best is yet to come.)
-* [yswdqz](https://github.com/yswdqz) (Apache SkyWalking Committer)
 * 五花肉
 * 振华
 * 李浩然
@@ -149,6 +147,10 @@
 * Command Line Heroes
   * RSS地址：https://feeds.pacific-content.com/commandlineheroes
   * 播客网址：https://www.redhat.com/en/command-line-heroes
+
+* Code Comments
+  * RSS地址：https://feeds.pacific-content.com/codecomments
+  * 播客网址：https://www.redhat.com/en/code-comments-podcast
 
 * ThunderCast: Mozilla Thunderbird 官方播客
   * RSS地址：https://feeds.transistor.fm/thundercast
