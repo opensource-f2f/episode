@@ -16,7 +16,7 @@ hosts:
 
 ## 主持人
 
-- [wjsvec](https://github.com/wjsvec) 开源爱好者、一个码字的
+- [wjsvec](https://github.com/wjsvec) 北京邮电大学学生
 - [Rick](https://github.com/linuxsuren)（开源爱好者、业余开源布道者）
 
 ## 时间线
