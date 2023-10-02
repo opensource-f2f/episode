@@ -26,7 +26,7 @@
 | S01E06 | 从民营书店进货员到开源创业工程师的故事 |[South Drifted](https://github.com/TechQuery)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E07 | 面对开放的大门，技术小白可以怎样开始参与开源 |[李梦](https://github.com/LiMeng00)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E08 | 小雅：我在读研期间参与 CHAOSS 开源社区的心路经历 |[Xiaoya](https://github.com/xiaoya-yaya)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[majinghe](https://github.com/majinghe)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
-| S01E09 | 开源运营：运营能为开源带来什么 |五花肉<br/>[CandicePan](https://github.com/Candicepan)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E09 | 开源运营：运营能为开源带来什么 |五花肉<br/>[%!s(&lt;nil&gt;)](https://github.com/Candicepan)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E10 | 李浩然：参与开源要遵循能量守恒 |李浩然<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E11 | 白宦成：开源的魅力在于 show in public |[白宦成](https://github.com/bestony)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E12 | 小宇：一名测试工程师探索开源世界的经历 |[DunyuSong](https://github.com/DunyuSong)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -39,6 +39,7 @@
 | S01E19 | 对话吴炳锡：一个 DBA 老兵眼里的开源与生存 |[wubx](https://github.com/wubx)<br/>[Sarah Lau](https://github.com/sarahlau0415)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E20 | 开源之夏学生专访-王嘉树 |[Vector7 ](https://github.com/wjsvec)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E21 | 开源、个人品牌和 DevRel：Richard 的故事和建议 |[Richard Moreland](https://github.com/richard)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Vector7 ](https://github.com/wjsvec)<br/>|
+| S01E22 | 张跃骎：落选后是如何成为 SkyWalking Committer 的 |[yswdqz](https://github.com/yswdqz)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Vector7 ](https://github.com/wjsvec)<br/>|
 | S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |[Rui Su](https://github.com/Suave)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |[Xiaobing Huang](https://github.com/huangxiaobing1987)<br/>[Dianjin Wang](https://github.com/tuhaihe)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |[Yue](https://github.com/caiyue1993)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -73,13 +74,13 @@
 
 ## 致谢
 
-感谢以下 37 位嘉宾和主持人的支持：
+感谢以下 38 位嘉宾和主持人的支持：
 
 
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
 * [Yue](https://github.com/caiyue1993) (Skateboarder/iOS Engineer/Life Hacker
 &#34;No is temporary, yes is forever.&#34;)
-* [CandicePan](https://github.com/Candicepan)
+* [%!s(&lt;nil&gt;)](https://github.com/Candicepan)
 * [%!s(&lt;nil&gt;)](https://github.com/CLM-Li)
 * [Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)
 * [DunyuSong](https://github.com/DunyuSong)
@@ -112,6 +113,7 @@
 * [wubx](https://github.com/wubx) (data · compute · storage · cloud Work @datafuselabs  )
 * [Xiaoya](https://github.com/xiaoya-yaya) (@X-lab2017 Member; @chaoss Asia Pacific Leader; @todogroup Member.)
 * [yihong](https://github.com/yihong0618) (The best is yet to come.)
+* [yswdqz](https://github.com/yswdqz) (Apache SkyWalking Committer)
 * 五花肉
 * 振华
 * 李浩然
