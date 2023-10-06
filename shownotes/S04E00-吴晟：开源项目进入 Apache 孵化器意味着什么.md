@@ -26,7 +26,7 @@ S04E00-吴晟：开源项目进入 Apache 孵化器意味着什么
 
 [吴晟](https://github.com/wu-sheng) 是 [Apache](https://github.com/apache) [成员](https://apache.org/foundation/members)以及首位华人董事、同时也是 [incubator](http://people.apache.org/phonebook.html?pmc=incubator) PMC 成员，[Apache SkyWalking](https://github.com/apache/skywalking) 项目创始人。
 
-### 主持人（必填）
+### 主持人
 
 - [Rick](https://github.com/linuxsuren) 开源爱好者、业余开源布道师
 - [Miya](https://github.com/miyaliu666) [FreeCodeCamp 中文播客](https://feeds.transistor.fm/freecodecamp-podcast-in-chinese)主理人
@@ -34,12 +34,12 @@ S04E00-吴晟：开源项目进入 Apache 孵化器意味着什么
 
 ### 时间线
 
-00:00:00 嘉宾介绍
-00:03:06 关于 Apache 孵化器的快闪问答
-00:05:05 Apache 孵化器的人员构成及项目策略详解
-00:45:55 开源面对面听友提问答疑
-01:21:55 Community Over Code 背后原因和解读
-01:26:17 结束语和感谢
+- 00:00:00 嘉宾介绍
+- 00:03:06 关于 Apache 孵化器的快闪问答
+- 00:05:05 Apache 孵化器的人员构成及项目策略详解
+- 00:45:55 开源面对面听友提问答疑
+- 01:21:55 Community Over Code 背后原因和解读
+- 01:26:17 结束语和感谢
 
 ……
 
