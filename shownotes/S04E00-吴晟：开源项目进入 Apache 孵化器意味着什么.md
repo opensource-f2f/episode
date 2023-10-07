@@ -2,7 +2,8 @@
 num: 'S04E00'
 title: '吴晟：开源项目进入 Apache 孵化器意味着什么'
 link: https://cdn2.wavpub.com/hosting.wavpub.cn/wp-content/uploads/sites/18/2023/10/osf2f-wusheng.mp3
-guests: wu-sheng
+guests:
+- wu-sheng
 hosts:
 - LinuxSuRen
 - MikeyWei
