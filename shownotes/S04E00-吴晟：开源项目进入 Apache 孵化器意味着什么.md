@@ -40,8 +40,6 @@ S04E00-吴晟：开源项目进入 Apache 孵化器意味着什么
 - 01:21:55 Community Over Code 背后原因和解读
 - 01:26:17 结束语和感谢
 
-……
-
 ### Staff
 
 - 剪辑：[亮小猪]([https://github.com/MikeyWei](https://github.com/shinyzhu))
