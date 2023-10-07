@@ -8,10 +8,8 @@
 num: 'S01E00'
 title: ''
 link: 音频文件的绝对地址 URL
-guests:
-  - XXX
-hosts:
-  - YYY
+guests: ''
+hosts: ''
 ---
 
 ### 节目名称（必填）
