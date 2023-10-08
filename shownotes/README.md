@@ -7,6 +7,7 @@
 ---
 num: 'S01E00'
 title: ''
+date: 2023-01-01
 link: 音频文件的绝对地址 URL
 guests: ''
 hosts: ''
