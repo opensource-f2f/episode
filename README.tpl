@@ -176,4 +176,4 @@
 
 - [加入我们](member.md)
 - [爱发电](https://afdian.net/@opensource-f2f)
-- [听友群-飞书](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=2aar92d5-63c8-49cd-853a-d31fcd824231)
+- [捐赠记录](donation.md)
