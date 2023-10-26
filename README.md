@@ -105,12 +105,12 @@
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
 * [三咲智子 Kevin Deng](https://github.com/sxzz) (@vuejs @vitejs @vueuse @vue-macros @elk-zone @unplugin )
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
-* [tison](https://github.com/tisonkun) (Do not take it serious.)
+* [tison](https://github.com/tisonkun) (Do not take it seriously.)
 * [Dianjin Wang](https://github.com/tuhaihe) (Community Manager for Cloudberry Database @ HashData. ASF Contributor, ALC Beijing Member.)
 * wey gu
 * [Wey Gu](https://github.com/wey-gu) (Chief Evangelist @vesoft-inc)
 * [Vector7 ](https://github.com/wjsvec)
-* [吴晟 Wu Sheng](https://github.com/wu-sheng) (@apache First Chinese Board Director. @apache Member. 
+* [吴晟 Wu Sheng](https://github.com/wu-sheng) (@apache 1st(2021) Chinese Board Director. @apache Member. 
 Apache SkyWalking Creator  
 MVPs(Microsoft,Alibaba,Tencent). AWS Container Hero)
 * [wubx](https://github.com/wubx) (data · compute · storage · cloud Work @datafuselabs  )
@@ -235,4 +235,4 @@ MVPs(Microsoft,Alibaba,Tencent). AWS Container Hero)
 
 - [加入我们](member.md)
 - [爱发电](https://afdian.net/@opensource-f2f)
-- [听友群-飞书](https://applink.feishu.cn/client/chat/chatter/add_by_link?link_token=2aar92d5-63c8-49cd-853a-d31fcd824231)
+- [捐赠记录](donation.md)
