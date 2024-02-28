@@ -17,6 +17,7 @@
 | 01 | 开源许可证在国内等于格式合同 |振华<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | 02 | 开源布道师布的是什么道？ |[LiJiansheng](https://github.com/lijiangsheng1)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | 03 | 特辑：开源面对面两周年 ||[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>Wey Gu<br/>[majinghe](https://github.com/majinghe)<br/>|
+| 04 | 技术播客节特别节目：请不要忽视开源中的 Burn out 问题 |[wonderful](https://github.com/alili)<br/>[Willem Jiang](https://github.com/WillemJiang)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E00 | 开源面对面节目自述 |[majinghe](https://github.com/majinghe)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>|
 | S01E01 | 开发者关系 (DevRel) 是开源项目和开源社区的加速器 - Feynman Zhou (周鹏飞) |[Feynman Zhou](https://github.com/FeynmanZhou)<br/>|[majinghe](https://github.com/majinghe)<br/>[Wey Gu](https://github.com/wey-gu)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E02 | 李自：参与开源社区的原动力探索——自我价值的实现和社会认可 |[%!s(&lt;nil&gt;)](https://github.com/CLM-Li)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -24,7 +25,7 @@
 | S01E04 | Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使 |[miyaliu666](https://github.com/miyaliu666)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[majinghe](https://github.com/majinghe)<br/>|
 | S01E05 | 专访 琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区 |[琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[majinghe](https://github.com/majinghe)<br/>[Wey Gu](https://github.com/wey-gu)<br/>|
 | S01E06 | 从民营书店进货员到开源创业工程师的故事 |[South Drifted](https://github.com/TechQuery)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
-| S01E07 | 面对开放的大门，技术小白可以怎样开始参与开源 |[李梦](https://github.com/LiMeng00)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E07 | 面对开放的大门，技术小白可以怎样开始参与开源 |[%!s(&lt;nil&gt;)](https://github.com/limeng00)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E08 | 小雅：我在读研期间参与 CHAOSS 开源社区的心路经历 |[Xiaoya](https://github.com/xiaoya-yaya)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[majinghe](https://github.com/majinghe)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E09 | 开源运营：运营能为开源带来什么 |五花肉<br/>[%!s(&lt;nil&gt;)](https://github.com/Candicepan)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E10 | 李浩然：参与开源要遵循能量守恒 |李浩然<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -74,9 +75,10 @@
 
 ## 致谢
 
-感谢以下 38 位嘉宾和主持人的支持：
+感谢以下 40 位嘉宾和主持人的支持：
 
 
+* [wonderful](https://github.com/alili)
 * [白宦成](https://github.com/bestony) (Ultimate Developer)
 * [Yue](https://github.com/caiyue1993) (Skateboarder/iOS Engineer/Life Hacker
 &#34;No is temporary, yes is forever.&#34;)
@@ -89,8 +91,8 @@
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
 * [琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan) (Member of TheASF · Head of Global at API7.ai · freeCodeCamp)
 * [LiJiansheng](https://github.com/lijiangsheng1) (open source advocate.)
-* [李梦](https://github.com/LiMeng00)
-* [Rick](https://github.com/LinuxSuRen) (DevRel, a host of open-source Podcasts 
+* [%!s(&lt;nil&gt;)](https://github.com/limeng00)
+* [Rick](https://github.com/LinuxSuRen) (Dev and a host of open-source Podcasts 
 @opensource-f2f)
 * [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
 * [Ji Bin](https://github.com/matrixji) (Continue contributing even no longer have to introduce myself.)
@@ -101,14 +103,15 @@
 * [Richard Moreland](https://github.com/richard)
 * [Sarah Lau](https://github.com/sarahlau0415) (I like movies, dogs, and developers.)
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
-* [Shiny](https://github.com/shinyzhu) (Builder &amp; Enabler, DevRel, MCT, ex-MVP.)
+* [Shiny](https://github.com/shinyzhu) (Full Stack &#43; Full Cycle Engineer, DevRel Practitioner.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
 * [三咲智子 Kevin Deng](https://github.com/sxzz) (@vuejs @vitejs @vueuse @vue-macros @elk-zone @unplugin )
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
 * [tison](https://github.com/tisonkun) (Do not take it seriously.)
 * [Dianjin Wang](https://github.com/tuhaihe) (Community Manager for Cloudberry Database @ HashData. ASF Contributor, ALC Beijing Member.)
 * wey gu
-* [Wey Gu](https://github.com/wey-gu) (Chief Evangelist @vesoft-inc)
+* [Wey Gu](https://github.com/wey-gu) (GenAI Lead &amp; Chief Evangelist @vesoft-inc)
+* [Willem Jiang](https://github.com/WillemJiang)
 * [Vector7 ](https://github.com/wjsvec)
 * [吴晟 Wu Sheng](https://github.com/wu-sheng) (@apache 1st(2021) Chinese Board Director. @apache Member. 
 Apache SkyWalking Creator  
