@@ -34,7 +34,7 @@
 | S01E13 | MINGAI：从同传到创作到运营，机缘巧合入了开源桃花坞 |[ZMA](https://github.com/PROPELLER-ZMA)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E14 | 亮小猪：从开发到管理到开发者关系，他都经历了什么 |[Shiny](https://github.com/shinyzhu)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[ZMA](https://github.com/PROPELLER-ZMA)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E15 | 嵇斌：近 20 年的 IT 老兵作为开源新人的思考 |[Ji Bin](https://github.com/matrixji)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
-| S01E16 | 三咲智子：作为一名学生参与开源社区的故事 |[三咲智子 Kevin Deng](https://github.com/sxzz)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E16 | 三咲智子：作为一名学生参与开源社区的故事 |[Kevin Deng 三咲智子](https://github.com/sxzz)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E17 | tison：一名 Community Builder 的自白 |[tison](https://github.com/tisonkun)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E18 | Daniel：一名“舞台”下的开源布道者 |[Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E19 | 对话吴炳锡：一个 DBA 老兵眼里的开源与生存 |[wubx](https://github.com/wubx)<br/>[Sarah Lau](https://github.com/sarahlau0415)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
@@ -105,7 +105,7 @@
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
 * [Shiny](https://github.com/shinyzhu) (Full Stack &#43; Full Cycle Engineer, DevRel Practitioner.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
-* [三咲智子 Kevin Deng](https://github.com/sxzz) (@vuejs @vitejs @vueuse @vue-macros @elk-zone @unplugin )
+* [Kevin Deng 三咲智子](https://github.com/sxzz) (Think more, talk less.)
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
 * [tison](https://github.com/tisonkun) (Do not take it seriously.)
 * [Dianjin Wang](https://github.com/tuhaihe) (Community Manager for Cloudberry Database @ HashData. ASF Contributor, ALC Beijing Member.)
@@ -147,7 +147,8 @@ MVPs(Microsoft,Alibaba,Tencent). AWS Container Hero)
 * [gaycore 是 Python 编写的客户端](https://github.com/yihong0618/gaycore)
 * [goplay 是 Golang 编写的客户端](https://github.com/LinuxSuRen/goplay)
 * [AntennaPod](https://antennapod.org) 是一个完全开放和开源的安卓平台播客播放器
-* [VLC](https://www.videolan.org/) 是一个开源的跨平台播放器，其 Internet 模块提供了播客服务，支持 RSS 订阅。
+* [VLC](https://www.videolan.org/) 是一个开源的跨平台播放器，其 Internet 模块提供了播客服务，支持 RSS 订阅
+* [Listening](https://github.com/LinuxSuRen/listening) 是一个用 Java 编写的开源 PC 客户端
 
 ## 以开源为主题的播客
 
