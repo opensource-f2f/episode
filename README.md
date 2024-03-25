@@ -25,7 +25,7 @@
 | S01E04 | Miya 的故事｜从工地打印小妹，到全球知名教育公益开源社区大使 |[miyaliu666](https://github.com/miyaliu666)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[majinghe](https://github.com/majinghe)<br/>|
 | S01E05 | 专访 琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区 |[琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[majinghe](https://github.com/majinghe)<br/>[Wey Gu](https://github.com/wey-gu)<br/>|
 | S01E06 | 从民营书店进货员到开源创业工程师的故事 |[South Drifted](https://github.com/TechQuery)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
-| S01E07 | 面对开放的大门，技术小白可以怎样开始参与开源 |[%!s(&lt;nil&gt;)](https://github.com/limeng00)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E07 | 面对开放的大门，技术小白可以怎样开始参与开源 |[李梦](https://github.com/HungryFish034)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E08 | 小雅：我在读研期间参与 CHAOSS 开源社区的心路经历 |[Xiaoya](https://github.com/xiaoya-yaya)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[majinghe](https://github.com/majinghe)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E09 | 开源运营：运营能为开源带来什么 |五花肉<br/>[%!s(&lt;nil&gt;)](https://github.com/Candicepan)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E10 | 李浩然：参与开源要遵循能量守恒 |李浩然<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -46,6 +46,7 @@
 | S03E02 | 走近一个面向未来的操作系统：FydeOS |[Alpha](https://github.com/fydeos-alpha)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E03 | Jina AI 赋能所有开发者，让超酷的多模态 AI 想法实现落地 |[Nan Wang](https://github.com/nan-wang)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S04E00 | 吴晟：开源项目进入 Apache 孵化器意味着什么 |[吴晟 Wu Sheng](https://github.com/wu-sheng)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>[miyaliu666](https://github.com/miyaliu666)<br/>|
+| S04E01 | 开源之夏 2024 启航 |[李梦](https://github.com/HungryFish034)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 
 ## 背景
 
@@ -89,9 +90,9 @@
 * [Feynman Zhou](https://github.com/FeynmanZhou) (CNCF ambassador, Microsoft PM )
 * [Alpha](https://github.com/fydeos-alpha) (Support guy for FydeOS)
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
+* [李梦](https://github.com/HungryFish034)
 * [琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan) (Member of TheASF · Head of Global at API7.ai · freeCodeCamp)
 * [LiJiansheng](https://github.com/lijiangsheng1) (open source advocate.)
-* [%!s(&lt;nil&gt;)](https://github.com/limeng00)
 * [Rick](https://github.com/LinuxSuRen) (Dev and a host of open-source Podcasts 
 @opensource-f2f)
 * [majinghe](https://github.com/majinghe) (CDF ambassador, OpenSSF SIG Chair, focus on Cloud Native DevSecOps.)
