@@ -104,7 +104,7 @@
 * [Richard Moreland](https://github.com/richard)
 * [Sarah Lau](https://github.com/sarahlau0415) (I like movies, dogs, and developers.)
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
-* [Shiny](https://github.com/shinyzhu) (Full Stack &#43; Full Cycle Engineer, DevRel Practitioner.)
+* [Shiny](https://github.com/shinyzhu) (Full Stack Eng &amp; Ops, DevRel Practitioner.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
 * [Kevin Deng 三咲智子](https://github.com/sxzz) (Think more, talk less.)
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
