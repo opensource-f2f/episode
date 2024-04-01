@@ -2,6 +2,8 @@
 
 | 日期 | 捐赠人 | 金额 | 途径 |
 |---|---|---|---|
+| 2024-3-31 | [xiaowang256](https://github.com/xiaowangxiaowang256256) | 6 | [小宇宙](https://osf2f.net/episode/S01E11) |
+| 2023-12-9 | 黄英男_Jwth | 2 | [小宇宙](https://osf2f.net/episode/04) |
 | 2023-10-25 | [@majingh](https://github.com/majingh) | 23 | [开源年会-成都，易拉宝](https://github.com/opensource-f2f/episode/issues/254) |
 | 2023-10-25 | [@linuxsuren](https://github.com/linuxsuren) | 23 | [开源年会-成都，易拉宝](https://github.com/opensource-f2f/episode/issues/254) |
 | 2023-10-25 | [@wey-gu](https://github.com/wey-gu) | 21 | [开源年会-成都，易拉宝](https://github.com/opensource-f2f/episode/issues/254) |
