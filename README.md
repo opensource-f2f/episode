@@ -87,7 +87,7 @@
 * [%!s(&lt;nil&gt;)](https://github.com/CLM-Li)
 * [Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)
 * [DunyuSong](https://github.com/DunyuSong)
-* [Feynman Zhou](https://github.com/FeynmanZhou) (CNCF ambassador, Microsoft PM )
+* [Feynman Zhou](https://github.com/FeynmanZhou) (CNCF ambassador, Microsoft PM, open-source citizen )
 * [Alpha](https://github.com/fydeos-alpha) (Support guy for FydeOS)
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
 * [李梦](https://github.com/HungryFish034)
@@ -131,7 +131,7 @@ MVPs(Microsoft,Alibaba,Tencent). AWS Container Hero)
 | [StreamNative](https://streamnative.io/) | 北京市东城区法华寺街91号，德必WE国际文化创意中心 |
 | [OpenTEKr](https://www.opentekr.com) | 上海市静安区愚园东路28号东海广场3号楼8楼 |
 | [Monster Works](http://www.gamesound.com.cn) | 北京市朝阳区北苑东路中国铁建广场E座1011 |
-| [WavPub](https://wav.pub) | 北京市西城区烂缦胡同66号（声湃北京录音棚） |
+| [WavPub](https://wav.pub) | 声湃·北京录音棚 |
 
 ## 可访问的平台
 
