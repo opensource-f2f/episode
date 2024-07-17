@@ -10,6 +10,9 @@ hosts:
 - HungryFish034
 ---
 
+![image](https://github.com/user-attachments/assets/6a507412-08ca-46a4-bb0a-03b26ada82ef)
+
+
 - DragonOS 将广告打进了广州地铁
 - 以第一次参加开源之夏的 API Testing 和再次参与 DragonOS 为例，今年开源之夏学生的参与情况
 - 作为基础软件领域比较热门的技术方向，DrogonOS 是如何设置自己的项目任务的？目前集中在做的工作是什么？
