@@ -47,6 +47,7 @@
 | S03E03 | Jina AI 赋能所有开发者，让超酷的多模态 AI 想法实现落地 |[Nan Wang](https://github.com/nan-wang)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S04E00 | 吴晟：开源项目进入 Apache 孵化器意味着什么 |[吴晟 Wu Sheng](https://github.com/wu-sheng)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>[miyaliu666](https://github.com/miyaliu666)<br/>|
 | S04E01 | 开源之夏 2024 启航 |[李梦](https://github.com/HungryFish034)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
+| S04E02 | DragonOS 作者龙进专访，从零自研操作系统 |[LoGin](https://github.com/fslongjin)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[李梦](https://github.com/HungryFish034)<br/>|
 
 ## 背景
 
@@ -76,7 +77,7 @@
 
 ## 致谢
 
-感谢以下 40 位嘉宾和主持人的支持：
+感谢以下 41 位嘉宾和主持人的支持：
 
 
 * [wonderful](https://github.com/alili)
@@ -88,6 +89,7 @@
 * [Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)
 * [DunyuSong](https://github.com/DunyuSong)
 * [Feynman Zhou](https://github.com/FeynmanZhou) (CNCF ambassador, Microsoft PM, open-source citizen )
+* [LoGin](https://github.com/fslongjin) (Graduated from South China University of Technology with a major in Software Engineering, passionate about OS kernel.)
 * [Alpha](https://github.com/fydeos-alpha) (Support guy for FydeOS)
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
 * [李梦](https://github.com/HungryFish034)
