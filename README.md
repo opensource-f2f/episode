@@ -89,7 +89,7 @@
 * [Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)
 * [DunyuSong](https://github.com/DunyuSong)
 * [Feynman Zhou](https://github.com/FeynmanZhou) (CNCF ambassador, Microsoft PM, open-source citizen )
-* [LoGin](https://github.com/fslongjin) (Graduated from South China University of Technology with a major in Software Engineering, passionate about OS kernel.)
+* [LoGin](https://github.com/fslongjin) (Graduated from South China University of Technology with a major in Software Engineering, passionate about OS kernel. Currently working at @Tencent )
 * [Alpha](https://github.com/fydeos-alpha) (Support guy for FydeOS)
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
 * [李梦](https://github.com/HungryFish034)
