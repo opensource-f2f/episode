@@ -48,6 +48,7 @@
 | S04E00 | 吴晟：开源项目进入 Apache 孵化器意味着什么 |[吴晟 Wu Sheng](https://github.com/wu-sheng)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>[miyaliu666](https://github.com/miyaliu666)<br/>|
 | S04E01 | 开源之夏 2024 启航 |[李梦](https://github.com/HungryFish034)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S04E02 | DragonOS 作者龙进专访，从零自研操作系统 |[LoGin](https://github.com/fslongjin)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[李梦](https://github.com/HungryFish034)<br/>|
+| S04E03 | 专访开源编程语言 MoonBit |[Zongen](https://github.com/zongen01)<br/>[Young-Flash](https://github.com/Young-Flash)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 
 ## 背景
 
@@ -77,7 +78,7 @@
 
 ## 致谢
 
-感谢以下 41 位嘉宾和主持人的支持：
+感谢以下 43 位嘉宾和主持人的支持：
 
 
 * [wonderful](https://github.com/alili)
@@ -106,9 +107,9 @@
 * [Richard Moreland](https://github.com/richard)
 * [Sarah Lau](https://github.com/sarahlau0415) (I like movies, dogs, and developers.)
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
-* [Shiny](https://github.com/shinyzhu) (Full Stack Eng &amp; Ops, DevRel Practitioner.)
+* [Shiny](https://github.com/shinyzhu) (Travel Tech Builder &amp; Enabler, DevRel Practitioner.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
-* [Kevin Deng 三咲智子](https://github.com/sxzz) (Think more, talk less.)
+* [Kevin Deng 三咲智子](https://github.com/sxzz)
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
 * [tison](https://github.com/tisonkun) (Do not take it seriously.)
 * [Dianjin Wang](https://github.com/tuhaihe) (Community Manager for Cloudberry Database @ HashData. ASF Contributor, ALC Beijing Member.)
@@ -122,6 +123,8 @@ MVPs(Microsoft,Alibaba,Tencent). AWS Container Hero)
 * [wubx](https://github.com/wubx) (data · compute · storage · cloud Work @datafuselabs  )
 * [Xiaoya](https://github.com/xiaoya-yaya) (@X-lab2017 Member; @chaoss Asia Pacific Leader; @todogroup Member.)
 * [yihong](https://github.com/yihong0618) (The best is yet to come.)
+* [Young-Flash](https://github.com/Young-Flash) (Rust-lang &amp; rust-analyzer team member | Apache Committer | OSPP 2021 &amp; GSoC 2022 &amp; OSPP 2023 | Open Source contributor)
+* [Zongen](https://github.com/zongen01)
 * 五花肉
 * 振华
 * 李浩然
