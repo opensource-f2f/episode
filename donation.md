@@ -2,6 +2,7 @@
 
 | 日期 | 捐赠人 | 金额 | 途径 |
 |---|---|---|---|
+| 2024-8-20 | HD653438r | 6 | 小宇宙 S04E03 |
 | 2024-3-31 | HD653438r | 68 | 小宇宙 S04E02 |
 | 2024-3-31 | [xiaowang256](https://github.com/xiaowangxiaowang256256) | 6 | [小宇宙](https://osf2f.net/episode/S01E11) |
 | 2023-12-9 | 黄英男_Jwth | 2 | [小宇宙](https://osf2f.net/episode/04) |
