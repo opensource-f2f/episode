@@ -26,7 +26,7 @@
 | S01E05 | 专访 琚[jū]致远：聊聊兴趣与成就感如何驱动他参与开源社区 |[琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[majinghe](https://github.com/majinghe)<br/>[Wey Gu](https://github.com/wey-gu)<br/>|
 | S01E06 | 从民营书店进货员到开源创业工程师的故事 |[South Drifted](https://github.com/TechQuery)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E07 | 面对开放的大门，技术小白可以怎样开始参与开源 |[李梦](https://github.com/HungryFish034)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
-| S01E08 | 小雅：我在读研期间参与 CHAOSS 开源社区的心路经历 |[Xiaoya](https://github.com/xiaoya-yaya)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[majinghe](https://github.com/majinghe)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
+| S01E08 | 小雅：我在读研期间参与 CHAOSS 开源社区的心路经历 |[Yaya](https://github.com/xiaoya-yaya)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[majinghe](https://github.com/majinghe)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E09 | 开源运营：运营能为开源带来什么 |五花肉<br/>[%!s(&lt;nil&gt;)](https://github.com/Candicepan)<br/>|[Mikey Wei](https://github.com/MikeyWei)<br/>[琚致远 / Zhiyuan Ju](https://github.com/juzhiyuan)<br/>[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E10 | 李浩然：参与开源要遵循能量守恒 |李浩然<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S01E11 | 白宦成：开源的魅力在于 show in public |[白宦成](https://github.com/bestony)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
@@ -89,8 +89,8 @@
 * [%!s(&lt;nil&gt;)](https://github.com/CLM-Li)
 * [Daniel Filipe Bruehmueller Morinigo](https://github.com/danielfbm)
 * [DunyuSong](https://github.com/DunyuSong)
-* [Feynman Zhou](https://github.com/FeynmanZhou) (CNCF ambassador, Microsoft PM, open-source citizen )
-* [LoGin](https://github.com/fslongjin) (Graduated from South China University of Technology with a major in Software Engineering, passionate about OS kernel. Currently working at @Tencent )
+* [Feynman Zhou](https://github.com/FeynmanZhou) (CNCF Ambassador, Microsoft PM, Open-source citizen )
+* [LoGin](https://github.com/fslongjin) (Graduated from South China University of Technology, passionate about OS kernel &amp; container. Currently working at @Tencent )
 * [Alpha](https://github.com/fydeos-alpha) (Support guy for FydeOS)
 * [Xiaobing Huang](https://github.com/huangxiaobing1987)
 * [李梦](https://github.com/HungryFish034)
@@ -109,10 +109,10 @@
 * [Satoh Chen](https://github.com/Satohchen) (24hours person !)
 * [Shiny](https://github.com/shinyzhu) (Travel Tech Builder &amp; Enabler, DevRel Practitioner.)
 * [Rui Su](https://github.com/Suave) (Cofounder at Juicedata Inc.)
-* [Kevin Deng 三咲智子](https://github.com/sxzz)
+* [Kevin Deng 三咲智子](https://github.com/sxzz) (You either die a hero or you live long enough to see yourself become the villain.)
 * [South Drifted](https://github.com/TechQuery) (Web/JavaScript full-stack developer)
 * [tison](https://github.com/tisonkun) (Do not take it seriously.)
-* [Dianjin Wang](https://github.com/tuhaihe) (Community Manager for Cloudberry Database @ HashData. ASF Contributor, ALC Beijing Member.)
+* [Dianjin Wang](https://github.com/tuhaihe) (Community Coordinator for Apache Cloudberry @ HashData. ASF Contributor, ALC Beijing Member.)
 * wey gu
 * [Wey Gu](https://github.com/wey-gu) (GenAI Lead &amp; Chief Evangelist @vesoft-inc)
 * [Willem Jiang](https://github.com/WillemJiang)
@@ -121,7 +121,7 @@
 Apache SkyWalking Creator  
 MVPs(Microsoft,Alibaba,Tencent). AWS Container Hero)
 * [wubx](https://github.com/wubx) (data · compute · storage · cloud Work @datafuselabs  )
-* [Xiaoya](https://github.com/xiaoya-yaya) (@X-lab2017 Member; @chaoss Asia Pacific Leader; @todogroup Member.)
+* [Yaya](https://github.com/xiaoya-yaya) (Hi! I&#39;m on a boat now.)
 * [yihong](https://github.com/yihong0618) (The best is yet to come.)
 * [Young-Flash](https://github.com/Young-Flash) (Rust-lang &amp; rust-analyzer team member | Apache Committer | OSPP 2021 &amp; GSoC 2022 &amp; OSPP 2023 | Open Source contributor)
 * [Zongen](https://github.com/zongen01)
