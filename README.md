@@ -40,6 +40,7 @@
 | S01E19 | 对话吴炳锡：一个 DBA 老兵眼里的开源与生存 |[wubx](https://github.com/wubx)<br/>[Sarah Lau](https://github.com/sarahlau0415)<br/>|[Wey Gu](https://github.com/wey-gu)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E20 | 开源之夏学生专访-王嘉树 |[Vector7 ](https://github.com/wjsvec)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Mikey Wei](https://github.com/MikeyWei)<br/>|
 | S01E21 | 开源、个人品牌和 DevRel：Richard 的故事和建议 |[Richard Moreland](https://github.com/richard)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>[Vector7 ](https://github.com/wjsvec)<br/>|
+| S01E23 | 张慧：从工程到社区，开源成长经验 |[张慧](https://github.com/zhanghuidinah)<br/>|[小马哥](https://github.com/majinghe)<br/>|
 | S02E01 | 从商业到开源社区，聊聊 JuiceFS 的开发者招聘 |[Rui Su](https://github.com/Suave)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S02E02 | 走进全员 Remote 公司 StreamNative，共建开源乐园 |[Xiaobing Huang](https://github.com/huangxiaobing1987)<br/>[Dianjin Wang](https://github.com/tuhaihe)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
 | S03E01 | iOS 开源项目 IceCream 与其作者蔡越的故事 |[Yue](https://github.com/caiyue1993)<br/>|[Rick](https://github.com/LinuxSuRen)<br/>|
@@ -128,6 +129,7 @@ MVPs(Microsoft,Alibaba,Tencent). AWS Container Hero)
 * 五花肉
 * 振华
 * 李浩然
+* [张慧](https://github.com/zhanghuidinah)
 
 感谢以下组织（公司）为《开源面对面》提供录音场地：
 
